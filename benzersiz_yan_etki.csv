@@ -1,0 +1,578 @@
+Kullanici_Id,Cinsiyet,Il,Ilac_Adi,Ilac_Baslangic_Tarihi,Ilac_Bitis_Tarihi,Yan_Etki,Yan_Etki_Bildirim_Tarihi,Alerjilerim,Kronik_Hastaliklarim,Baba_Kronik_Hastaliklari,Anne_Kronik_Hastaliklari,Kiz_Kardes_Kronik_Hastaliklari,Erkek_Kardes_Kronik_Hastaliklari,Kan_Grubu,Kilo,Boy,Yas,Yas_Grubu,Tedavi_Suresi,Yan_Etki_Bildirim_Suresi
+107,Male,Canakkale,trifluoperazine,2022-01-09,2022-03-04,Kabizlik,2022-02-19 18:28:43,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,54,-13
+2,Female,Canakkale,warfarin sodium,2022-01-11,2022-03-12,Carpinti,2022-02-04 05:29:20,Muz,Kalp Hastaliklari,Diyabet,Kemik Erimesi,Diyabet,Diger,B RH-,93.0,158.0,47,41-50,60,-36
+156,Female,Antalya,"selegiline patch, transdermal 24 hours",2022-01-05,2022-03-19,Istah Artisi,2022-02-17 07:08:01,Karaciger,Kemik Erimesi,Guatr,Kemik Erimesi,Diyabet,Kalp Hastaliklari,AB RH-,80.0,171.0,17,0-18,73,-30
+113,Male,Trabzon,alprazolam,2022-01-12,2022-03-04,Terleme,2022-02-03 00:24:29,Kahve,KOAH,Astim,Guatr,KOAH,Kan Hastaliklari,0 RH+,76.0,155.0,14,0-18,51,-29
+156,Female,Antalya,"selegiline patch, transdermal 24 hours",2022-01-06,2022-03-06,Gucsuzluk,2022-02-01 04:34:33,Karaciger,Kemik Erimesi,Guatr,Kemik Erimesi,Diyabet,Kalp Hastaliklari,AB RH-,80.0,171.0,17,0-18,59,-33
+161,Female,Istanbul,carbamazepine cr,2022-01-10,2022-03-12,Karin Agrisi,2022-02-13 13:55:37,Pancar,Kalp Hastaliklari,KOAH,Astim,Diyabet,Kalp Hastaliklari,B RH-,80.0,158.0,70,61-70,61,-27
+111,Male,Adana,prochlorperazine maleate,2022-01-03,2022-03-07,Kabizlik,2022-02-19 18:28:43,Domates,Kemik Erimesi,Kemik Erimesi,Alzheimer,Kemik Erimesi,Astim,0 RH-,98.0,185.0,56,51-60,63,-16
+187,Female,Bursa,olanzapine vial,2022-01-05,2022-03-09,Gec Bosalma,2022-02-14 07:26:11,Kefir,Kanser,Guatr,Kan Hastaliklari,Kanser,Kan Hastaliklari,0 RH-,107.0,178.0,56,51-60,63,-23
+106,Female,Trabzon,"methylphenidate er tablet, extended release 24 hr",2022-01-05,2022-03-18,Ishal,2022-02-19 21:47:39,Kefir,Hipertansiyon,KOAH,KOAH,Kemik Erimesi,Diyabet,0 RH-,108.0,147.0,70,61-70,72,-27
+66,Female,Istanbul,risperidone odt,2022-01-08,2022-03-14,Tansiyon Yukselme,2022-02-03 16:27:30,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,65,-39
+29,Male,Antalya,paroxetine,2022-01-13,2022-03-18,Istah Artisi,2022-02-17 07:08:01,Kabak Cekirdegi,Diyabet,Alzheimer,Astim,Kanser,Guatr,A RH+,108.0,163.0,74,71-80,64,-29
+92,Female,Bursa,asenapine sublingual tablet,2022-01-06,2022-03-11,Az Uyuma,2022-02-06 14:28:54,Deniz Urunler,Hipertansiyon,Hipertansiyon,Guatr,Alzheimer,Kanser,AB RH-,81.0,168.0,51,51-60,64,-33
+54,Male,Trabzon,"desoximetasone spray, non-aerosol",2022-01-06,2022-03-09,Kabizlik,2022-02-02 06:09:22,Kefir,KOAH,Astim,Alzheimer,Kemik Erimesi,Kemik Erimesi,AB RH+,97.0,176.0,51,51-60,62,-35
+54,Male,Trabzon,alprazolam,2022-01-05,2022-03-04,Terleme,2022-02-03 00:24:29,Kefir,KOAH,Astim,Alzheimer,Kemik Erimesi,Kemik Erimesi,AB RH+,97.0,176.0,51,51-60,58,-29
+15,Female,Ankara,"methylphenidate suspension, extended release 24 hr, reconstituted (suspension, er reconstituted)",2022-01-05,2022-03-10,Istah Artisi,2022-02-17 07:08:01,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,64,-21
+15,Female,Ankara,mometasone furoate ointment,2022-01-08,2022-03-03,Tansiyon Dusuklugu,2022-02-14 03:35:01,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,54,-17
+187,Female,Bursa,olanzapine,2022-01-09,2022-03-16,Gormede Bulaniklik,2022-02-09 01:16:50,Kefir,Kanser,Guatr,Kan Hastaliklari,Kanser,Kan Hastaliklari,0 RH-,107.0,178.0,56,51-60,66,-35
+167,Female,Trabzon,duloxetine delayed release capsules,2022-01-06,2022-03-03,Yorgunluk,2022-02-14 03:19:06,Istiridye,Kalp Hastaliklari,Hipertansiyon,Kalp Hastaliklari,Kanser, ,A RH-,50.0,158.0,79,71-80,56,-17
+190,Male,Ankara,aripiprazole tablet with sensor and patch,2022-01-14,2022-03-03,Kabizlik,2022-02-19 18:28:43,Kahve,Kan Hastaliklari,Kan Hastaliklari,Kemik Erimesi,Astim,Diyabet,0 RH+,70.0,169.0,30,19-30,48,-12
+70,Female,Kayseri,paroxetine er,2022-01-04,2022-03-12,Gec Bosalma,2022-02-14 07:26:11,Havyar,Alzheimer,Guatr,Hipertansiyon,Kalp Hastaliklari,Alzheimer,B RH+,80.0,200.0,81,80+,67,-26
+59,Female,Malatya,trimipramine,2022-01-12,2022-03-08,Kabizlik,2022-02-19 18:28:43,Sut,Astim,Kan Hastaliklari,Kanser,Hipertansiyon,Astim,AB RH-,80.0,198.0,39,31-40,55,-17
+141,Male,Ankara,betamethasone dipropionate cream,2022-01-02,2022-03-16,Mide Bulantisi,2022-02-05 06:50:13,Bugday,Guatr,Kanser,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,A RH-,94.0,197.0,21,19-30,73,-39
+107,Male,Canakkale,betamethasone dipropionate cream,2022-01-12,2022-03-02,Ishal,2022-02-12 19:13:43,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,49,-18
+49,Female,Canakkale,dipyridamole,2022-01-09,2022-03-13,Uykululuk Hali,2022-02-02 23:10:47,Karaciger,Alzheimer,Astim,Diger,Alzheimer,Astim,AB RH-,96.0,155.0,69,61-70,63,-39
+17,Male,Eskisehir,pimozide,2022-01-14,2022-03-17,Bulanti,2022-02-18 05:26:31,Kahve,Astim,Astim, ,Hipertansiyon,Astim,0 RH-,91.0,145.0,55,51-60,62,-27
+92,Female,Bursa,mirtazapine,2022-01-05,2022-03-13,Istah Artisi,2022-02-17 07:08:01,Deniz Urunler,Hipertansiyon,Hipertansiyon,Guatr,Alzheimer,Kanser,AB RH-,81.0,168.0,51,51-60,67,-24
+183,Female,Samsun,valproic acid,2022-01-10,2022-03-14,Agizda Farkli Bir Tat,2022-02-04 08:08:31,Havyar,Kan Hastaliklari,Kanser,Hipertansiyon,Hipertansiyon,Astim,B RH-,92.0,153.0,14,0-18,63,-38
+62,Male,Samsun,divalproex sodium er,2022-01-08,2022-03-03,Huzursuzluk,2022-02-01 13:27:16,Cikolata,Kemik Erimesi,Kanser,Kan Hastaliklari,Kanser,Diyabet,B RH-,88.0,182.0,23,19-30,54,-30
+45,Female,Trabzon,betamethasone dipropionate cream,2022-01-11,2022-03-08,Mide Bulantisi,2022-02-05 06:50:13,Domates,Alzheimer,Astim,Hipertansiyon,Kalp Hastaliklari,Astim,0 RH+,52.0,178.0,84,80+,56,-31
+133,Female,Canakkale,paroxetine,2022-01-12,2022-03-13,Tansiyon Yukselme,2022-02-07 19:26:17,Elma,Kan Hastaliklari,Kanser,KOAH,Kemik Erimesi,Hipertansiyon,0 RH+,88.0,181.0,53,51-60,60,-34
+15,Female,Ankara,protriptyline hcl,2022-01-09,2022-03-08,Gec Bosalma,2022-02-14 07:26:11,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,58,-22
+47,Male,Trabzon,vortioxetine,2022-01-05,2022-03-19,Gormede Bulaniklik,2022-02-09 01:16:50,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,73,-38
+129,Male,Eskisehir,desonide foam,2022-01-03,2022-03-07,Deride Morarma,2022-02-09 20:53:54,Muz,Astim,Kalp Hastaliklari,Kanser,Alzheimer,Diyabet,AB RH+,54.0,146.0,73,71-80,63,-26
+196,Female,Canakkale,methylphenidate hcl solution,2022-01-11,2022-03-07,Istah Artisi,2022-02-17 07:08:01,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,55,-18
+113,Male,Trabzon,citalopram,2022-01-12,2022-03-13,Yorgunluk,2022-02-14 03:19:06,Kahve,KOAH,Astim,Guatr,KOAH,Kan Hastaliklari,0 RH+,76.0,155.0,14,0-18,60,-27
+45,Female,Trabzon,lithium carbonate er,2022-01-06,2022-03-12,Uykululuk Hali,2022-02-02 23:10:47,Domates,Alzheimer,Astim,Hipertansiyon,Kalp Hastaliklari,Astim,0 RH+,52.0,178.0,84,80+,65,-38
+45,Female,Trabzon,maprotiline hcl,2022-01-12,2022-03-02,Uykululuk Hali,2022-02-02 23:10:47,Domates,Alzheimer,Astim,Hipertansiyon,Kalp Hastaliklari,Astim,0 RH+,52.0,178.0,84,80+,49,-28
+196,Female,Canakkale,quetiapine er,2022-01-02,2022-03-06,Gormede Bulaniklik,2022-02-09 01:16:50,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,63,-25
+59,Female,Malatya,lithium carbonate er,2022-01-11,2022-03-13,Sinirlilik,2022-02-08 01:01:21,Sut,Astim,Kan Hastaliklari,Kanser,Hipertansiyon,Astim,AB RH-,80.0,198.0,39,31-40,61,-33
+62,Male,Samsun,warfarin sodium,2022-01-03,2022-03-10,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Cikolata,Kemik Erimesi,Kanser,Kan Hastaliklari,Kanser,Diyabet,B RH-,88.0,182.0,23,19-30,66,-26
+133,Female,Canakkale,cariprazine,2022-01-05,2022-03-16,Az Uyuma,2022-02-19 11:09:36,Elma,Kan Hastaliklari,Kanser,KOAH,Kemik Erimesi,Hipertansiyon,0 RH+,88.0,181.0,53,51-60,70,-25
+152,Female,Canakkale,paroxetine er,2022-01-14,2022-03-08,Az Uyuma,2022-02-19 11:09:36,Laktoz,Kemik Erimesi,Alzheimer,Hipertansiyon,Diyabet,Kanser,AB RH-,64.0,153.0,38,31-40,53,-17
+47,Male,Trabzon,cariprazine,2022-01-14,2022-03-16,Yorgunluk,2022-02-14 03:19:06,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,61,-30
+29,Male,Antalya,thiothixene,2022-01-09,2022-03-07,Tansiyon Yukselme,2022-02-08 07:55:59,Kabak Cekirdegi,Diyabet,Alzheimer,Astim,Kanser,Guatr,A RH+,108.0,163.0,74,71-80,57,-27
+71,Male,Canakkale,loxapine,2022-01-13,2022-03-15,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Laktoz,Alzheimer,Kanser,Kalp Hastaliklari,Kanser,Guatr,B RH+,94.0,197.0,45,41-50,61,-31
+63,Female,Samsun,protriptyline hcl,2022-01-13,2022-03-15,Az Uyuma,2022-02-19 11:09:36,Ispanakgiller,Hipertansiyon,Kalp Hastaliklari, ,Astim,Guatr,0 RH+,74.0,184.0,72,71-80,61,-24
+185,Female,Canakkale,aripiprazole tablet with sensor and patch,2022-01-04,2022-03-04,Bas Agrisi,2022-02-19 04:14:26,Ispanak,Diyabet,KOAH,Diyabet,Hipertansiyon,Alzheimer,0 RH+,109.0,172.0,59,51-60,59,-13
+66,Female,Istanbul,thiothixene,2022-01-07,2022-03-06,Az Uyuma,2022-02-06 14:28:54,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,58,-28
+89,Female,Malatya,triamcinolone cream,2022-01-01,2022-03-12,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Ispanakgiller,Hipertansiyon,Kanser,Kanser,Alzheimer,Guatr,0 RH+,71.0,184.0,39,31-40,70,-28
+107,Male,Canakkale,paroxetine,2022-01-07,2022-03-19,Gormede Bulaniklik,2022-02-16 22:10:35,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,71,-31
+63,Female,Samsun,ziprasidone vial,2022-01-06,2022-03-07,Carpinti,2022-02-04 05:29:20,Ispanakgiller,Hipertansiyon,Kalp Hastaliklari, ,Astim,Guatr,0 RH+,74.0,184.0,72,71-80,60,-31
+45,Female,Trabzon,desvenlafaxine er,2022-01-04,2022-03-16,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Domates,Alzheimer,Astim,Hipertansiyon,Kalp Hastaliklari,Astim,0 RH+,52.0,178.0,84,80+,71,-32
+4,Female,Bursa,lithium carbonate,2022-01-10,2022-03-06,Tansiyon Yukselme,2022-02-03 16:27:30,Balik,KOAH,Kemik Erimesi,Kemik Erimesi,Kan Hastaliklari,Hipertansiyon,AB RH-,53.0,176.0,29,19-30,55,-31
+13,Female,Canakkale,imipramine pamoate,2022-01-11,2022-03-15,Az Uyuma,2022-02-19 11:09:36,Kabak Cekirdegi,Kan Hastaliklari,Kemik Erimesi,KOAH,Alzheimer,Kemik Erimesi,AB RH+,56.0,189.0,65,61-70,63,-24
+183,Female,Samsun,nortriptyline,2022-01-01,2022-03-14,Bulanti,2022-02-18 05:26:31,Havyar,Kan Hastaliklari,Kanser,Hipertansiyon,Hipertansiyon,Astim,B RH-,92.0,153.0,14,0-18,72,-24
+196,Female,Canakkale,alprazolam intensol,2022-01-11,2022-03-09,Yorgunluk,2022-02-14 03:19:06,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,57,-23
+190,Male,Ankara,carbamazepine,2022-01-06,2022-03-08,Yorgunluk,2022-02-14 03:19:06,Kahve,Kan Hastaliklari,Kan Hastaliklari,Kemik Erimesi,Astim,Diyabet,0 RH+,70.0,169.0,30,19-30,61,-22
+13,Female,Canakkale,pimozide,2022-01-02,2022-03-19,Bulanti,2022-02-18 05:26:31,Kabak Cekirdegi,Kan Hastaliklari,Kemik Erimesi,KOAH,Alzheimer,Kemik Erimesi,AB RH+,56.0,189.0,65,61-70,76,-29
+71,Male,Canakkale,"methylphenidate er tablet, extended release 24 hr",2022-01-05,2022-03-15,Gormede Bulaniklik,2022-02-16 22:10:35,Laktoz,Alzheimer,Kanser,Kalp Hastaliklari,Kanser,Guatr,B RH+,94.0,197.0,45,41-50,69,-27
+141,Male,Ankara,alprazolam odt,2022-01-13,2022-03-17,Bas Agrisi,2022-02-19 04:14:26,Bugday,Guatr,Kanser,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,A RH-,94.0,197.0,21,19-30,63,-26
+4,Female,Bursa,Prednicarbate cream,2022-01-05,2022-03-08,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Balik,KOAH,Kemik Erimesi,Kemik Erimesi,Kan Hastaliklari,Hipertansiyon,AB RH-,53.0,176.0,29,19-30,62,-17
+126,Female,Ankara,aripipirazol,2022-01-11,2022-03-09,Tansiyon Yukselme,2022-02-07 19:26:17,Domates,Guatr,Kemik Erimesi,Alzheimer,Alzheimer,Kalp Hastaliklari,B RH-,55.0,176.0,32,31-40,57,-30
+116,Male,Izmir,venlafaxine,2022-01-05,2022-03-10,Kabizlik,2022-02-02 06:09:22,Ispanakgiller,Diyabet,Alzheimer,Diyabet,Alzheimer,Kemik Erimesi,B RH-,57.0,189.0,40,31-40,64,-36
+114,Female,Trabzon,quetiapine,2022-01-08,2022-03-15,Yorgunluk,2022-02-14 03:19:06,Ispanakgiller,KOAH,Kalp Hastaliklari,Kanser, ,Guatr,0 RH+,51.0,181.0,22,19-30,66,-29
+196,Female,Canakkale,aripiprazole odt,2022-01-04,2022-03-19,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,74,-28
+106,Female,Trabzon,lamotrigine er,2022-01-08,2022-03-08,Gormede Bulaniklik,2022-02-09 01:16:50,Kefir,Hipertansiyon,KOAH,KOAH,Kemik Erimesi,Diyabet,0 RH-,108.0,147.0,70,61-70,59,-27
+109,Female,Ankara,carbamazepine cr,2022-01-14,2022-03-11,Uykululuk Hali,2022-02-02 23:10:47,Kolali Icecek,Kalp Hastaliklari,Kanser,Kalp Hastaliklari,Astim,Diyabet,A RH-,62.0,158.0,18,0-18,56,-37
+126,Female,Ankara,fluoxetine dr,2022-01-11,2022-03-18,Kabizlik,2022-02-02 06:09:22,Domates,Guatr,Kemik Erimesi,Alzheimer,Alzheimer,Kalp Hastaliklari,B RH-,55.0,176.0,32,31-40,66,-44
+66,Female,Istanbul,"selegiline patch, transdermal 24 hours",2022-01-09,2022-03-17,Tansiyon Yukselme,2022-02-08 07:55:59,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,67,-37
+141,Male,Ankara,fluphenazine hcl,2022-01-09,2022-03-17,Gormede Bulaniklik,2022-02-16 22:10:35,Bugday,Guatr,Kanser,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,A RH-,94.0,197.0,21,19-30,67,-29
+147,Male,Malatya,duloxetine hcl,2022-01-08,2022-03-18,Bas Agrisi,2022-02-19 04:14:26,Ispanak,Diyabet,Hipertansiyon,Kanser,Kemik Erimesi,KOAH,0 RH+,69.0,203.0,81,80+,69,-27
+63,Female,Samsun,methylphenidate hcl solution,2022-01-12,2022-03-08,Deride Morarma,2022-02-09 20:53:54,Ispanakgiller,Hipertansiyon,Kalp Hastaliklari, ,Astim,Guatr,0 RH+,74.0,184.0,72,71-80,55,-27
+145,Male,Kayseri,carbamazepine,2022-01-09,2022-03-02,Az Uyuma,2022-02-06 14:28:54,Toz,Kalp Hastaliklari,Hipertansiyon,KOAH,Astim,Hipertansiyon,B RH-,66.0,153.0,83,80+,52,-24
+2,Female,Canakkale,carbamazepine extended release,2022-01-13,2022-03-10,Kabizlik,2022-02-02 06:09:22,Muz,Kalp Hastaliklari,Diyabet,Kemik Erimesi,Diyabet,Diger,B RH-,93.0,158.0,47,41-50,56,-36
+2,Female,Canakkale,fluphenazine hcl,2022-01-12,2022-03-14,Yorgunluk,2022-02-17 11:54:49,Muz,Kalp Hastaliklari,Diyabet,Kemik Erimesi,Diyabet,Diger,B RH-,93.0,158.0,47,41-50,61,-25
+107,Male,Canakkale,divalproex sodium,2022-01-10,2022-03-09,Huzursuzluk,2022-02-01 13:27:16,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,58,-36
+4,Female,Bursa,fluvoxamine maleate,2022-01-03,2022-03-08,Gucsuzluk,2022-02-01 04:34:33,Balik,KOAH,Kemik Erimesi,Kemik Erimesi,Kan Hastaliklari,Hipertansiyon,AB RH-,53.0,176.0,29,19-30,64,-35
+187,Female,Bursa,desoximetasone ointment,2022-01-12,2022-03-02,Carpinti,2022-02-04 05:29:20,Kefir,Kanser,Guatr,Kan Hastaliklari,Kanser,Kan Hastaliklari,0 RH-,107.0,178.0,56,51-60,49,-26
+63,Female,Samsun,prazosin,2022-01-10,2022-03-04,Yorgunluk,2022-02-17 11:54:49,Ispanakgiller,Hipertansiyon,Kalp Hastaliklari, ,Astim,Guatr,0 RH+,74.0,184.0,72,71-80,53,-15
+66,Female,Istanbul,warfarin sodium,2022-01-04,2022-03-18,Uykululuk Hali,2022-02-02 23:10:47,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,73,-44
+156,Female,Antalya,escitalopram,2022-01-07,2022-03-14,Istah Artisi,2022-02-17 07:08:01,Karaciger,Kemik Erimesi,Guatr,Kemik Erimesi,Diyabet,Kalp Hastaliklari,AB RH-,80.0,171.0,17,0-18,66,-25
+190,Male,Ankara,divalproex sodium,2022-01-06,2022-03-19,Huzursuzluk,2022-02-01 13:27:16,Kahve,Kan Hastaliklari,Kan Hastaliklari,Kemik Erimesi,Astim,Diyabet,0 RH+,70.0,169.0,30,19-30,72,-46
+109,Female,Ankara,trimipramine,2022-01-13,2022-03-04,Mide Bulantisi,2022-02-05 06:50:13,Kolali Icecek,Kalp Hastaliklari,Kanser,Kalp Hastaliklari,Astim,Diyabet,A RH-,62.0,158.0,18,0-18,50,-27
+92,Female,Bursa,amoksapin,2022-01-12,2022-03-05,Istah Artisi,2022-02-17 07:08:01,Deniz Urunler,Hipertansiyon,Hipertansiyon,Guatr,Alzheimer,Kanser,AB RH-,81.0,168.0,51,51-60,52,-16
+190,Male,Ankara,aripiprazole,2022-01-10,2022-03-15,Kas Agrisi,2022-02-11 08:22:07,Kahve,Kan Hastaliklari,Kan Hastaliklari,Kemik Erimesi,Astim,Diyabet,0 RH+,70.0,169.0,30,19-30,64,-32
+12,Female,Kayseri,alprazolam,2022-01-14,2022-03-05,Istah Artisi,2022-02-17 07:08:01,Domates,KOAH,Astim,Astim,Guatr,Diger,0 RH+,53.0,175.0,79,71-80,50,-16
+109,Female,Ankara,doxepin hcl cream,2022-01-06,2022-03-17,Istah Artisi,2022-02-17 07:08:01,Kolali Icecek,Kalp Hastaliklari,Kanser,Kalp Hastaliklari,Astim,Diyabet,A RH-,62.0,158.0,18,0-18,70,-28
+59,Female,Malatya,alprazolam concentrate,2022-01-02,2022-03-05,Huzursuzluk,2022-02-01 13:27:16,Sut,Astim,Kan Hastaliklari,Kanser,Hipertansiyon,Astim,AB RH-,80.0,198.0,39,31-40,62,-32
+196,Female,Canakkale,maprotiline hcl,2022-01-10,2022-03-17,Bas Agrisi,2022-02-19 04:14:26,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,66,-26
+15,Female,Ankara,desonide ointment,2022-01-10,2022-03-09,Mide Bulantisi,2022-02-05 06:50:13,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,58,-32
+185,Female,Canakkale,haloperidol decanoate,2022-01-08,2022-03-02,Gucsuzluk,2022-02-01 04:34:33,Ispanak,Diyabet,KOAH,Diyabet,Hipertansiyon,Alzheimer,0 RH+,109.0,172.0,59,51-60,53,-29
+71,Male,Canakkale,carbamazepine cr,2022-01-14,2022-03-06,Ishal,2022-02-12 19:13:43,Laktoz,Alzheimer,Kanser,Kalp Hastaliklari,Kanser,Guatr,B RH+,94.0,197.0,45,41-50,51,-22
+49,Female,Canakkale,haloperidol lactate,2022-01-11,2022-03-18,Gormede Bulaniklik,2022-02-09 01:16:50,Karaciger,Alzheimer,Astim,Diger,Alzheimer,Astim,AB RH-,96.0,155.0,69,61-70,66,-37
+89,Female,Malatya,fluphenazine hcl,2022-01-01,2022-03-06,Kabizlik,2022-02-19 18:28:43,Ispanakgiller,Hipertansiyon,Kanser,Kanser,Alzheimer,Guatr,0 RH+,71.0,184.0,39,31-40,64,-15
+13,Female,Canakkale,asenapine sublingual tablet,2022-01-09,2022-03-14,Tansiyon Yukselme,2022-02-03 16:27:30,Kabak Cekirdegi,Kan Hastaliklari,Kemik Erimesi,KOAH,Alzheimer,Kemik Erimesi,AB RH+,56.0,189.0,65,61-70,64,-39
+161,Female,Istanbul,divalproex sodium er,2022-01-11,2022-03-12,Yorgunluk,2022-02-03 20:48:17,Pancar,Kalp Hastaliklari,KOAH,Astim,Diyabet,Kalp Hastaliklari,B RH-,80.0,158.0,70,61-70,60,-37
+136,Female,Izmir,desonide foam,2022-01-04,2022-03-07,Kas Agrisi,2022-02-11 08:22:07,Deniz Urunler,Diyabet,Hipertansiyon,Kalp Hastaliklari,Kanser,Guatr,0 RH-,95.0,169.0,66,61-70,62,-24
+147,Male,Malatya,"methylphenidate suspension, extended release 24 hr, reconstituted (suspension, er reconstituted)",2022-01-13,2022-03-11,Tansiyon Yukselme,2022-02-03 16:27:30,Ispanak,Diyabet,Hipertansiyon,Kanser,Kemik Erimesi,KOAH,0 RH+,69.0,203.0,81,80+,57,-36
+156,Female,Antalya,paliperidone er,2022-01-04,2022-03-04,Az Uyuma,2022-02-19 11:09:36,Karaciger,Kemik Erimesi,Guatr,Kemik Erimesi,Diyabet,Kalp Hastaliklari,AB RH-,80.0,171.0,17,0-18,59,-13
+15,Female,Ankara,clindamycin phosphate - benzoyl peroxide,2022-01-05,2022-03-12,Deride Morarma,2022-02-09 20:53:54,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,66,-31
+114,Female,Trabzon,lurasidone,2022-01-01,2022-03-11,Az Uyuma,2022-02-19 11:09:36,Ispanakgiller,KOAH,Kalp Hastaliklari,Kanser, ,Guatr,0 RH+,51.0,181.0,22,19-30,69,-20
+86,Male,Bursa,prazosin,2022-01-02,2022-03-09,Bulanti,2022-02-18 05:26:31,Kakao,Kalp Hastaliklari,Diyabet,Alzheimer,Kemik Erimesi,Kanser,A RH+,107.0,179.0,84,80+,66,-19
+44,Male,Adana,midazolam,2022-01-04,2022-03-08,Huzursuzluk,2022-02-01 13:27:16,Domates,Kemik Erimesi,Hipertansiyon,Kan Hastaliklari,Kalp Hastaliklari,Kanser,A RH-,82.0,187.0,26,19-30,63,-35
+12,Female,Kayseri,phenelzine,2022-01-06,2022-03-14,Deride Morarma,2022-02-09 20:53:54,Domates,KOAH,Astim,Astim,Guatr,Diger,0 RH+,53.0,175.0,79,71-80,67,-33
+62,Male,Samsun,"selegiline patch, transdermal 24 hours",2022-01-11,2022-03-12,Mide Bulantisi,2022-02-05 06:50:13,Cikolata,Kemik Erimesi,Kanser,Kan Hastaliklari,Kanser,Diyabet,B RH-,88.0,182.0,23,19-30,60,-35
+167,Female,Trabzon,nefazodone hcl,2022-01-05,2022-03-19,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Istiridye,Kalp Hastaliklari,Hipertansiyon,Kalp Hastaliklari,Kanser, ,A RH-,50.0,158.0,79,71-80,73,-35
+109,Female,Ankara,"methylphenidate hcl tablet, chewable",2022-01-03,2022-03-06,Tansiyon Dusuklugu,2022-02-14 03:35:01,Kolali Icecek,Kalp Hastaliklari,Kanser,Kalp Hastaliklari,Astim,Diyabet,A RH-,62.0,158.0,18,0-18,62,-20
+185,Female,Canakkale,valproic acid,2022-01-07,2022-03-06,Az Uyuma,2022-02-06 14:28:54,Ispanak,Diyabet,KOAH,Diyabet,Hipertansiyon,Alzheimer,0 RH+,109.0,172.0,59,51-60,58,-28
+17,Male,Eskisehir,olanzapine odt,2022-01-12,2022-03-16,Tansiyon Dusuklugu,2022-02-14 03:35:01,Kahve,Astim,Astim, ,Hipertansiyon,Astim,0 RH-,91.0,145.0,55,51-60,63,-30
+70,Female,Kayseri,warfarin sodium,2022-01-09,2022-03-17,Tansiyon Dusuklugu,2022-02-14 03:35:01,Havyar,Alzheimer,Guatr,Hipertansiyon,Kalp Hastaliklari,Alzheimer,B RH+,80.0,200.0,81,80+,67,-31
+89,Female,Malatya,fluocinonide cream,2022-01-06,2022-03-05,Kabizlik,2022-02-19 18:28:43,Ispanakgiller,Hipertansiyon,Kanser,Kanser,Alzheimer,Guatr,0 RH+,71.0,184.0,39,31-40,58,-14
+49,Female,Canakkale,midazolam,2022-01-09,2022-03-16,Bulanti,2022-02-18 05:26:31,Karaciger,Alzheimer,Astim,Diger,Alzheimer,Astim,AB RH-,96.0,155.0,69,61-70,66,-26
+44,Male,Adana,secobarbital,2022-01-08,2022-03-07,Gec Bosalma,2022-02-14 07:26:11,Domates,Kemik Erimesi,Hipertansiyon,Kan Hastaliklari,Kalp Hastaliklari,Kanser,A RH-,82.0,187.0,26,19-30,58,-21
+116,Male,Izmir,olanzapine,2022-01-02,2022-03-04,Yorgunluk,2022-02-03 20:48:17,Ispanakgiller,Diyabet,Alzheimer,Diyabet,Alzheimer,Kemik Erimesi,B RH-,57.0,189.0,40,31-40,61,-29
+4,Female,Bursa,divalproex sodium,2022-01-12,2022-03-14,Mide Bulantisi,2022-02-05 06:50:13,Balik,KOAH,Kemik Erimesi,Kemik Erimesi,Kan Hastaliklari,Hipertansiyon,AB RH-,53.0,176.0,29,19-30,61,-37
+49,Female,Canakkale,lamictal xr,2022-01-12,2022-03-03,Gec Bosalma,2022-02-14 07:26:11,Karaciger,Alzheimer,Astim,Diger,Alzheimer,Astim,AB RH-,96.0,155.0,69,61-70,50,-17
+133,Female,Canakkale,lurasidone,2022-01-04,2022-03-15,Istah Artisi,2022-02-17 07:08:01,Elma,Kan Hastaliklari,Kanser,KOAH,Kemik Erimesi,Hipertansiyon,0 RH+,88.0,181.0,53,51-60,70,-26
+47,Male,Trabzon,diazepam,2022-01-01,2022-03-18,Tansiyon Yukselme,2022-02-08 07:55:59,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,76,-38
+86,Male,Bursa,"desvenlafaxine succinate tablet, extended release 24 hr",2022-01-13,2022-03-12,Tansiyon Dusuklugu,2022-02-14 03:35:01,Kakao,Kalp Hastaliklari,Diyabet,Alzheimer,Kemik Erimesi,Kanser,A RH+,107.0,179.0,84,80+,58,-26
+152,Female,Canakkale,ziprasidone vial,2022-01-12,2022-03-04,Tansiyon Yukselme,2022-02-07 19:26:17,Laktoz,Kemik Erimesi,Alzheimer,Hipertansiyon,Diyabet,Kanser,AB RH-,64.0,153.0,38,31-40,51,-25
+156,Female,Antalya,imipramine pamoate,2022-01-11,2022-03-05,Terleme,2022-02-03 00:24:29,Karaciger,Kemik Erimesi,Guatr,Kemik Erimesi,Diyabet,Kalp Hastaliklari,AB RH-,80.0,171.0,17,0-18,53,-30
+62,Male,Samsun,sertraline,2022-01-10,2022-03-14,Deride Morarma,2022-02-09 20:53:54,Cikolata,Kemik Erimesi,Kanser,Kan Hastaliklari,Kanser,Diyabet,B RH-,88.0,182.0,23,19-30,63,-33
+116,Male,Izmir,lamictal xr,2022-01-03,2022-03-17,Yorgunluk,2022-02-17 11:54:49,Ispanakgiller,Diyabet,Alzheimer,Diyabet,Alzheimer,Kemik Erimesi,B RH-,57.0,189.0,40,31-40,73,-28
+49,Female,Canakkale,fluphenazine hcl tablet,2022-01-07,2022-03-06,Az Uyuma,2022-02-06 14:28:54,Karaciger,Alzheimer,Astim,Diger,Alzheimer,Astim,AB RH-,96.0,155.0,69,61-70,58,-28
+190,Male,Ankara,hydroxyzine,2022-01-10,2022-03-16,Kabizlik,2022-02-02 06:09:22,Kahve,Kan Hastaliklari,Kan Hastaliklari,Kemik Erimesi,Astim,Diyabet,0 RH+,70.0,169.0,30,19-30,65,-42
+2,Female,Canakkale,hydroxyzine hcl,2022-01-06,2022-03-05,Tansiyon Yukselme,2022-02-07 19:26:17,Muz,Kalp Hastaliklari,Diyabet,Kemik Erimesi,Diyabet,Diger,B RH-,93.0,158.0,47,41-50,58,-26
+86,Male,Bursa,brexpiprazole,2022-01-11,2022-03-06,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Kakao,Kalp Hastaliklari,Diyabet,Alzheimer,Kemik Erimesi,Kanser,A RH+,107.0,179.0,84,80+,54,-22
+185,Female,Canakkale,warfarin sodium,2022-01-11,2022-03-04,Uykululuk Hali,2022-02-02 23:10:47,Ispanak,Diyabet,KOAH,Diyabet,Hipertansiyon,Alzheimer,0 RH+,109.0,172.0,59,51-60,52,-30
+148,Male,Bursa,mirtazapine,2022-01-05,2022-03-18,Kabizlik,2022-02-02 06:09:22,Ispanak,Kemik Erimesi,Astim, ,Alzheimer,Kalp Hastaliklari,0 RH+,94.0,197.0,43,41-50,72,-44
+106,Female,Trabzon,loxapine,2022-01-02,2022-03-14,Kabizlik,2022-02-19 18:28:43,Kefir,Hipertansiyon,KOAH,KOAH,Kemik Erimesi,Diyabet,0 RH-,108.0,147.0,70,61-70,71,-23
+183,Female,Samsun,carbamazepine extended release,2022-01-10,2022-03-19,Az Uyuma,2022-02-06 14:28:54,Havyar,Kan Hastaliklari,Kanser,Hipertansiyon,Hipertansiyon,Astim,B RH-,92.0,153.0,14,0-18,68,-41
+2,Female,Canakkale,hydrocortisone cream,2022-01-08,2022-03-02,Karin Agrisi,2022-02-13 13:55:37,Muz,Kalp Hastaliklari,Diyabet,Kemik Erimesi,Diyabet,Diger,B RH-,93.0,158.0,47,41-50,53,-17
+116,Male,Izmir,carbamazepine,2022-01-13,2022-03-10,Bas Agrisi,2022-02-19 04:14:26,Ispanakgiller,Diyabet,Alzheimer,Diyabet,Alzheimer,Kemik Erimesi,B RH-,57.0,189.0,40,31-40,56,-19
+62,Male,Samsun,fluphenazine hcl,2022-01-05,2022-03-10,Kas Agrisi,2022-02-11 08:22:07,Cikolata,Kemik Erimesi,Kanser,Kan Hastaliklari,Kanser,Diyabet,B RH-,88.0,182.0,23,19-30,64,-27
+47,Male,Trabzon,loxapine,2022-01-02,2022-03-11,Terleme,2022-02-03 00:24:29,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,68,-36
+49,Female,Canakkale,paroxetine er,2022-01-04,2022-03-05,Huzursuzluk,2022-02-01 13:27:16,Karaciger,Alzheimer,Astim,Diger,Alzheimer,Astim,AB RH-,96.0,155.0,69,61-70,60,-32
+187,Female,Bursa,doxepin hcl cream,2022-01-01,2022-03-10,Az Uyuma,2022-02-19 11:09:36,Kefir,Kanser,Guatr,Kan Hastaliklari,Kanser,Kan Hastaliklari,0 RH-,107.0,178.0,56,51-60,68,-19
+148,Male,Bursa,risperidone odt,2022-01-12,2022-03-10,Ishal,2022-02-12 19:13:43,Ispanak,Kemik Erimesi,Astim, ,Alzheimer,Kalp Hastaliklari,0 RH+,94.0,197.0,43,41-50,57,-26
+107,Male,Canakkale,midazolam,2022-01-03,2022-03-06,Az Uyuma,2022-02-06 14:28:54,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,62,-28
+111,Male,Adana,quetiapine er,2022-01-04,2022-03-04,Agizda Farkli Bir Tat,2022-02-04 08:08:31,Domates,Kemik Erimesi,Kemik Erimesi,Alzheimer,Kemik Erimesi,Astim,0 RH-,98.0,185.0,56,51-60,59,-28
+148,Male,Bursa,desonide foam,2022-01-08,2022-03-09,Kabizlik,2022-02-02 06:09:22,Ispanak,Kemik Erimesi,Astim, ,Alzheimer,Kalp Hastaliklari,0 RH+,94.0,197.0,43,41-50,60,-35
+145,Male,Kayseri,"zolpidem tablet, sublingual",2022-01-10,2022-03-02,Tansiyon Dusuklugu,2022-02-14 03:35:01,Toz,Kalp Hastaliklari,Hipertansiyon,KOAH,Astim,Hipertansiyon,B RH-,66.0,153.0,83,80+,51,-16
+45,Female,Trabzon,lorazepam,2022-01-07,2022-03-03,Tansiyon Yukselme,2022-02-08 07:55:59,Domates,Alzheimer,Astim,Hipertansiyon,Kalp Hastaliklari,Astim,0 RH+,52.0,178.0,84,80+,55,-23
+126,Female,Ankara,asenapine sublingual tablet,2022-01-04,2022-03-02,Istah Artisi,2022-02-17 07:08:01,Domates,Guatr,Kemik Erimesi,Alzheimer,Alzheimer,Kalp Hastaliklari,B RH-,55.0,176.0,32,31-40,57,-13
+17,Male,Eskisehir,fluvoxamine maleate,2022-01-01,2022-03-11,Tansiyon Yukselme,2022-02-03 16:27:30,Kahve,Astim,Astim, ,Hipertansiyon,Astim,0 RH-,91.0,145.0,55,51-60,69,-36
+49,Female,Canakkale,triamcinolone cream,2022-01-07,2022-03-19,Karin Agrisi,2022-02-13 13:55:37,Karaciger,Alzheimer,Astim,Diger,Alzheimer,Astim,AB RH-,96.0,155.0,69,61-70,71,-34
+59,Female,Malatya,risperidone odt,2022-01-02,2022-03-11,Uykululuk Hali,2022-02-02 23:10:47,Sut,Astim,Kan Hastaliklari,Kanser,Hipertansiyon,Astim,AB RH-,80.0,198.0,39,31-40,68,-37
+177,Male,Mersin,lurasidone,2022-01-01,2022-03-17,Terleme,2022-02-03 00:24:29,Kefir,Kemik Erimesi,Alzheimer,Kalp Hastaliklari,Diyabet,KOAH,AB RH-,107.0,165.0,31,31-40,75,-42
+147,Male,Malatya,tranylcypromine,2022-01-02,2022-03-02,Sinirlilik,2022-02-08 01:01:21,Ispanak,Diyabet,Hipertansiyon,Kanser,Kemik Erimesi,KOAH,0 RH+,69.0,203.0,81,80+,59,-22
+47,Male,Trabzon,"duloxetine 60 mg capsule,delayed release sprinkle",2022-01-14,2022-03-13,Bulanti,2022-02-18 05:26:31,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,58,-23
+156,Female,Antalya,trimipramine,2022-01-11,2022-03-14,Tansiyon Yukselme,2022-02-03 16:27:30,Karaciger,Kemik Erimesi,Guatr,Kemik Erimesi,Diyabet,Kalp Hastaliklari,AB RH-,80.0,171.0,17,0-18,62,-39
+47,Male,Trabzon,olanzapine vial,2022-01-08,2022-03-18,Yorgunluk,2022-02-17 11:54:49,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,69,-29
+71,Male,Canakkale,chlordiazepoxide-amitriptyline,2022-01-03,2022-03-09,Karin Agrisi,2022-02-13 13:55:37,Laktoz,Alzheimer,Kanser,Kalp Hastaliklari,Kanser,Guatr,B RH+,94.0,197.0,45,41-50,65,-24
+113,Male,Trabzon,lorazepam concentrate,2022-01-13,2022-03-18,Kas Agrisi,2022-02-11 08:22:07,Kahve,KOAH,Astim,Guatr,KOAH,Kan Hastaliklari,0 RH+,76.0,155.0,14,0-18,64,-35
+4,Female,Bursa,venlafaxine xr,2022-01-14,2022-03-13,Az Uyuma,2022-02-19 11:09:36,Balik,KOAH,Kemik Erimesi,Kemik Erimesi,Kan Hastaliklari,Hipertansiyon,AB RH-,53.0,176.0,29,19-30,58,-22
+62,Male,Samsun,"methylphenidate tablet,chewable,immediate release and extended release,biphasic 24 hr (tablet,chew,immed-exten.rel 24hr)",2022-01-13,2022-03-14,Terleme,2022-02-03 00:24:29,Cikolata,Kemik Erimesi,Kanser,Kan Hastaliklari,Kanser,Diyabet,B RH-,88.0,182.0,23,19-30,60,-39
+133,Female,Canakkale,phenelzine,2022-01-08,2022-03-09,Agizda Farkli Bir Tat,2022-02-04 08:08:31,Elma,Kan Hastaliklari,Kanser,KOAH,Kemik Erimesi,Hipertansiyon,0 RH+,88.0,181.0,53,51-60,60,-33
+86,Male,Bursa,"asenapine tablet, sublingual",2022-01-13,2022-03-03,Yorgunluk,2022-02-17 11:54:49,Kakao,Kalp Hastaliklari,Diyabet,Alzheimer,Kemik Erimesi,Kanser,A RH+,107.0,179.0,84,80+,49,-14
+2,Female,Canakkale,carbamazepine extended release,2022-01-07,2022-03-04,Carpinti,2022-02-04 05:29:20,Muz,Kalp Hastaliklari,Diyabet,Kemik Erimesi,Diyabet,Diger,B RH-,93.0,158.0,47,41-50,56,-28
+177,Male,Mersin,pregabalin,2022-01-04,2022-03-10,Az Uyuma,2022-02-19 11:09:36,Kefir,Kemik Erimesi,Alzheimer,Kalp Hastaliklari,Diyabet,KOAH,AB RH-,107.0,165.0,31,31-40,65,-19
+29,Male,Antalya,pethidine hcl,2022-01-14,2022-03-16,Tansiyon Yukselme,2022-02-03 16:27:30,Kabak Cekirdegi,Diyabet,Alzheimer,Astim,Kanser,Guatr,A RH+,108.0,163.0,74,71-80,61,-41
+66,Female,Istanbul,alprazolam odt,2022-01-11,2022-03-09,Gormede Bulaniklik,2022-02-09 01:16:50,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,57,-28
+66,Female,Istanbul,mometasone furoate ointment,2022-01-07,2022-03-06,Gormede Bulaniklik,2022-02-16 22:10:35,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,58,-18
+133,Female,Canakkale,doxepin hcl capsule,2022-01-02,2022-03-11,Carpinti,2022-02-04 05:29:20,Elma,Kan Hastaliklari,Kanser,KOAH,Kemik Erimesi,Hipertansiyon,0 RH+,88.0,181.0,53,51-60,68,-35
+136,Female,Izmir,risperidone,2022-01-14,2022-03-03,Uykululuk Hali,2022-02-02 23:10:47,Deniz Urunler,Diyabet,Hipertansiyon,Kalp Hastaliklari,Kanser,Guatr,0 RH-,95.0,169.0,66,61-70,48,-29
+54,Male,Trabzon,vilazodone,2022-01-05,2022-03-16,Carpinti,2022-02-04 05:29:20,Kefir,KOAH,Astim,Alzheimer,Kemik Erimesi,Kemik Erimesi,AB RH+,97.0,176.0,51,51-60,70,-40
+86,Male,Bursa,"betamethasone dipropionate aerosol, spray with pump",2022-01-13,2022-03-03,Tansiyon Yukselme,2022-02-03 16:27:30,Kakao,Kalp Hastaliklari,Diyabet,Alzheimer,Kemik Erimesi,Kanser,A RH+,107.0,179.0,84,80+,49,-28
+145,Male,Kayseri,lurasidone,2022-01-05,2022-03-08,Gormede Bulaniklik,2022-02-16 22:10:35,Toz,Kalp Hastaliklari,Hipertansiyon,KOAH,Astim,Hipertansiyon,B RH-,66.0,153.0,83,80+,62,-20
+161,Female,Istanbul,lithium carbonate er,2022-01-09,2022-03-17,Gormede Bulaniklik,2022-02-09 01:16:50,Pancar,Kalp Hastaliklari,KOAH,Astim,Diyabet,Kalp Hastaliklari,B RH-,80.0,158.0,70,61-70,67,-36
+148,Male,Bursa,"desvenlafaxine succinate tablet, extended release 24 hr",2022-01-11,2022-03-07,Gormede Bulaniklik,2022-02-09 01:16:50,Ispanak,Kemik Erimesi,Astim, ,Alzheimer,Kalp Hastaliklari,0 RH+,94.0,197.0,43,41-50,55,-26
+172,Male,Mersin,fluphenazine decanoate vial,2022-01-03,2022-03-15,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Havyar,Kalp Hastaliklari,Hipertansiyon,Diyabet, ,Kanser,A RH+,108.0,192.0,15,0-18,71,-31
+136,Female,Izmir,aripiprazole,2022-01-02,2022-03-17,Kabizlik,2022-02-02 06:09:22,Deniz Urunler,Diyabet,Hipertansiyon,Kalp Hastaliklari,Kanser,Guatr,0 RH-,95.0,169.0,66,61-70,74,-43
+17,Male,Eskisehir,olanzapine,2022-01-01,2022-03-08,Az Uyuma,2022-02-19 11:09:36,Kahve,Astim,Astim, ,Hipertansiyon,Astim,0 RH-,91.0,145.0,55,51-60,66,-17
+71,Male,Canakkale,hydroxyzine hcl,2022-01-05,2022-03-10,Yorgunluk,2022-02-17 11:54:49,Laktoz,Alzheimer,Kanser,Kalp Hastaliklari,Kanser,Guatr,B RH+,94.0,197.0,45,41-50,64,-21
+12,Female,Kayseri,chlordiazepoxide-amitriptyline,2022-01-12,2022-03-03,Terleme,2022-02-03 00:24:29,Domates,KOAH,Astim,Astim,Guatr,Diger,0 RH+,53.0,175.0,79,71-80,50,-28
+147,Male,Malatya,"betamethasone dipropionate aerosol, spray with pump",2022-01-13,2022-03-19,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Ispanak,Diyabet,Hipertansiyon,Kanser,Kemik Erimesi,KOAH,0 RH+,69.0,203.0,81,80+,65,-28
+196,Female,Canakkale,"betamethasone dipropionate aerosol, spray with pump",2022-01-05,2022-03-12,Uykululuk Hali,2022-02-02 23:10:47,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,66,-38
+45,Female,Trabzon,haloperidol lactate,2022-01-10,2022-03-18,Gucsuzluk,2022-02-01 04:34:33,Domates,Alzheimer,Astim,Hipertansiyon,Kalp Hastaliklari,Astim,0 RH+,52.0,178.0,84,80+,67,-45
+172,Male,Mersin,"bupropion hbr tablet, extended release 24 hr",2022-01-09,2022-03-05,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Havyar,Kalp Hastaliklari,Hipertansiyon,Diyabet, ,Kanser,A RH+,108.0,192.0,15,0-18,55,-14
+185,Female,Canakkale,methylphenidate hcl solution,2022-01-10,2022-03-06,Agizda Farkli Bir Tat,2022-02-04 08:08:31,Ispanak,Diyabet,KOAH,Diyabet,Hipertansiyon,Alzheimer,0 RH+,109.0,172.0,59,51-60,55,-30
+129,Male,Eskisehir,Levomilnacipran,2022-01-06,2022-03-15,Yorgunluk,2022-02-03 20:48:17,Muz,Astim,Kalp Hastaliklari,Kanser,Alzheimer,Diyabet,AB RH+,54.0,146.0,73,71-80,68,-40
+172,Male,Mersin,iloperidone,2022-01-05,2022-03-19,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Havyar,Kalp Hastaliklari,Hipertansiyon,Diyabet, ,Kanser,A RH+,108.0,192.0,15,0-18,73,-35
+92,Female,Bursa,paroxetine er,2022-01-14,2022-03-05,Az Uyuma,2022-02-19 11:09:36,Deniz Urunler,Hipertansiyon,Hipertansiyon,Guatr,Alzheimer,Kanser,AB RH-,81.0,168.0,51,51-60,50,-14
+114,Female,Trabzon,lorazepam concentrate,2022-01-12,2022-03-10,Yorgunluk,2022-02-17 11:54:49,Ispanakgiller,KOAH,Kalp Hastaliklari,Kanser, ,Guatr,0 RH+,51.0,181.0,22,19-30,57,-21
+147,Male,Malatya,mirtazapine,2022-01-08,2022-03-19,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Ispanak,Diyabet,Hipertansiyon,Kanser,Kemik Erimesi,KOAH,0 RH+,69.0,203.0,81,80+,70,-35
+59,Female,Malatya,aripiprazole tablet with sensor and patch,2022-01-08,2022-03-19,Sinirlilik,2022-02-08 01:01:21,Sut,Astim,Kan Hastaliklari,Kanser,Hipertansiyon,Astim,AB RH-,80.0,198.0,39,31-40,70,-39
+111,Male,Adana,hydrocortisone cream,2022-01-12,2022-03-05,Sinirlilik,2022-02-08 01:01:21,Domates,Kemik Erimesi,Kemik Erimesi,Alzheimer,Kemik Erimesi,Astim,0 RH-,98.0,185.0,56,51-60,52,-25
+183,Female,Samsun,desoximetasone ointment,2022-01-06,2022-03-02,Kabizlik,2022-02-19 18:28:43,Havyar,Kan Hastaliklari,Kanser,Hipertansiyon,Hipertansiyon,Astim,B RH-,92.0,153.0,14,0-18,55,-11
+147,Male,Malatya,loxapine,2022-01-01,2022-03-16,Tansiyon Yukselme,2022-02-07 19:26:17,Ispanak,Diyabet,Hipertansiyon,Kanser,Kemik Erimesi,KOAH,0 RH+,69.0,203.0,81,80+,74,-37
+45,Female,Trabzon,phenelzine,2022-01-06,2022-03-08,Tansiyon Yukselme,2022-02-03 16:27:30,Domates,Alzheimer,Astim,Hipertansiyon,Kalp Hastaliklari,Astim,0 RH+,52.0,178.0,84,80+,61,-33
+92,Female,Bursa,haloperidol decanoate,2022-01-07,2022-03-07,Agizda Farkli Bir Tat,2022-02-04 08:08:31,Deniz Urunler,Hipertansiyon,Hipertansiyon,Guatr,Alzheimer,Kanser,AB RH-,81.0,168.0,51,51-60,59,-31
+129,Male,Eskisehir,secobarbital,2022-01-05,2022-03-16,Uykululuk Hali,2022-02-02 23:10:47,Muz,Astim,Kalp Hastaliklari,Kanser,Alzheimer,Diyabet,AB RH+,54.0,146.0,73,71-80,70,-42
+49,Female,Canakkale,venlafaxine,2022-01-02,2022-03-08,Karin Agrisi,2022-02-13 13:55:37,Karaciger,Alzheimer,Astim,Diger,Alzheimer,Astim,AB RH-,96.0,155.0,69,61-70,65,-23
+177,Male,Mersin,halobetasol propionate foam,2022-01-10,2022-03-05,Yorgunluk,2022-02-14 03:19:06,Kefir,Kemik Erimesi,Alzheimer,Kalp Hastaliklari,Diyabet,KOAH,AB RH-,107.0,165.0,31,31-40,54,-19
+62,Male,Samsun,methylphenidate er,2022-01-11,2022-03-18,Tansiyon Dusuklugu,2022-02-14 03:35:01,Cikolata,Kemik Erimesi,Kanser,Kan Hastaliklari,Kanser,Diyabet,B RH-,88.0,182.0,23,19-30,66,-32
+114,Female,Trabzon,tranylcypromine,2022-01-07,2022-03-03,Tansiyon Yukselme,2022-02-03 16:27:30,Ispanakgiller,KOAH,Kalp Hastaliklari,Kanser, ,Guatr,0 RH+,51.0,181.0,22,19-30,55,-28
+126,Female,Ankara,hydrocortisone cream,2022-01-09,2022-03-05,Deride Morarma,2022-02-09 20:53:54,Domates,Guatr,Kemik Erimesi,Alzheimer,Alzheimer,Kalp Hastaliklari,B RH-,55.0,176.0,32,31-40,55,-24
+59,Female,Malatya,divalproeks sodyum sprinkle,2022-01-08,2022-03-14,Az Uyuma,2022-02-06 14:28:54,Sut,Astim,Kan Hastaliklari,Kanser,Hipertansiyon,Astim,AB RH-,80.0,198.0,39,31-40,65,-36
+129,Male,Eskisehir,tranylcypromine,2022-01-11,2022-03-11,Kabizlik,2022-02-02 06:09:22,Muz,Astim,Kalp Hastaliklari,Kanser,Alzheimer,Diyabet,AB RH+,54.0,146.0,73,71-80,59,-37
+167,Female,Trabzon,citalopram,2022-01-08,2022-03-04,Yorgunluk,2022-02-03 20:48:17,Istiridye,Kalp Hastaliklari,Hipertansiyon,Kalp Hastaliklari,Kanser, ,A RH-,50.0,158.0,79,71-80,55,-29
+141,Male,Ankara,Mometasone furoate,2022-01-01,2022-03-08,Tansiyon Yukselme,2022-02-08 07:55:59,Bugday,Guatr,Kanser,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,A RH-,94.0,197.0,21,19-30,66,-28
+63,Female,Samsun,alprazolam odt,2022-01-12,2022-03-16,Kabizlik,2022-02-19 18:28:43,Ispanakgiller,Hipertansiyon,Kalp Hastaliklari, ,Astim,Guatr,0 RH+,74.0,184.0,72,71-80,63,-25
+62,Male,Samsun,amitriptyline hcl,2022-01-14,2022-03-17,Gormede Bulaniklik,2022-02-16 22:10:35,Cikolata,Kemik Erimesi,Kanser,Kan Hastaliklari,Kanser,Diyabet,B RH-,88.0,182.0,23,19-30,62,-29
+172,Male,Mersin,ziprasidone,2022-01-13,2022-03-11,Az Uyuma,2022-02-06 14:28:54,Havyar,Kalp Hastaliklari,Hipertansiyon,Diyabet, ,Kanser,A RH+,108.0,192.0,15,0-18,57,-33
+148,Male,Bursa,betamethasone dipropionate cream,2022-01-06,2022-03-12,Tansiyon Yukselme,2022-02-03 16:27:30,Ispanak,Kemik Erimesi,Astim, ,Alzheimer,Kalp Hastaliklari,0 RH+,94.0,197.0,43,41-50,65,-37
+196,Female,Canakkale,clomipramine hcl,2022-01-06,2022-03-07,Tansiyon Yukselme,2022-02-03 16:27:30,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,60,-32
+126,Female,Ankara,brexpiprazole,2022-01-10,2022-03-19,Tansiyon Dusuklugu,2022-02-14 03:35:01,Domates,Guatr,Kemik Erimesi,Alzheimer,Alzheimer,Kalp Hastaliklari,B RH-,55.0,176.0,32,31-40,68,-33
+109,Female,Ankara,"bupropion hbr tablet, extended release 24 hr",2022-01-13,2022-03-15,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Kolali Icecek,Kalp Hastaliklari,Kanser,Kalp Hastaliklari,Astim,Diyabet,A RH-,62.0,158.0,18,0-18,61,-24
+71,Male,Canakkale,ziprasidone vial,2022-01-08,2022-03-18,Gucsuzluk,2022-02-01 04:34:33,Laktoz,Alzheimer,Kanser,Kalp Hastaliklari,Kanser,Guatr,B RH+,94.0,197.0,45,41-50,69,-45
+109,Female,Ankara,"fluocinolone acetonide solution, non-",2022-01-04,2022-03-12,Mide Bulantisi,2022-02-05 06:50:13,Kolali Icecek,Kalp Hastaliklari,Kanser,Kalp Hastaliklari,Astim,Diyabet,A RH-,62.0,158.0,18,0-18,67,-35
+106,Female,Trabzon,"zolpidem tablet, sublingual",2022-01-11,2022-03-11,Tansiyon Dusuklugu,2022-02-14 03:35:01,Kefir,Hipertansiyon,KOAH,KOAH,Kemik Erimesi,Diyabet,0 RH-,108.0,147.0,70,61-70,59,-25
+15,Female,Ankara,chlordiazepoxide hcl,2022-01-07,2022-03-15,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,67,-31
+54,Male,Trabzon,aripiprazole odt,2022-01-12,2022-03-06,Gormede Bulaniklik,2022-02-16 22:10:35,Kefir,KOAH,Astim,Alzheimer,Kemik Erimesi,Kemik Erimesi,AB RH+,97.0,176.0,51,51-60,53,-18
+187,Female,Bursa,alprazolam intensol,2022-01-10,2022-03-02,Terleme,2022-02-03 00:24:29,Kefir,Kanser,Guatr,Kan Hastaliklari,Kanser,Kan Hastaliklari,0 RH-,107.0,178.0,56,51-60,51,-27
+70,Female,Kayseri,doxepin hcl tablet,2022-01-06,2022-03-07,Huzursuzluk,2022-02-01 13:27:16,Havyar,Alzheimer,Guatr,Hipertansiyon,Kalp Hastaliklari,Alzheimer,B RH+,80.0,200.0,81,80+,60,-34
+44,Male,Adana,trimipramine,2022-01-04,2022-03-07,Tansiyon Yukselme,2022-02-07 19:26:17,Domates,Kemik Erimesi,Hipertansiyon,Kan Hastaliklari,Kalp Hastaliklari,Kanser,A RH-,82.0,187.0,26,19-30,62,-28
+116,Male,Izmir,venlafaxine,2022-01-07,2022-03-07,Bas Agrisi,2022-02-19 04:14:26,Ispanakgiller,Diyabet,Alzheimer,Diyabet,Alzheimer,Kemik Erimesi,B RH-,57.0,189.0,40,31-40,59,-16
+147,Male,Malatya,tranylcypromine,2022-01-05,2022-03-17,Az Uyuma,2022-02-19 11:09:36,Ispanak,Diyabet,Hipertansiyon,Kanser,Kemik Erimesi,KOAH,0 RH+,69.0,203.0,81,80+,71,-26
+111,Male,Adana,doxepin hcl tablet,2022-01-05,2022-03-10,Ishal,2022-02-19 21:47:39,Domates,Kemik Erimesi,Kemik Erimesi,Alzheimer,Kemik Erimesi,Astim,0 RH-,98.0,185.0,56,51-60,64,-19
+13,Female,Canakkale,alprazolam intensol,2022-01-12,2022-03-15,Yorgunluk,2022-02-17 11:54:49,Kabak Cekirdegi,Kan Hastaliklari,Kemik Erimesi,KOAH,Alzheimer,Kemik Erimesi,AB RH+,56.0,189.0,65,61-70,62,-26
+196,Female,Canakkale,fluoxetine dr,2022-01-02,2022-03-11,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,68,-27
+141,Male,Ankara,aripipirazol,2022-01-12,2022-03-06,Gormede Bulaniklik,2022-02-09 01:16:50,Bugday,Guatr,Kanser,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,A RH-,94.0,197.0,21,19-30,53,-25
+152,Female,Canakkale,paroxetine er,2022-01-12,2022-03-15,Gucsuzluk,2022-02-01 04:34:33,Laktoz,Kemik Erimesi,Alzheimer,Hipertansiyon,Diyabet,Kanser,AB RH-,64.0,153.0,38,31-40,62,-42
+17,Male,Eskisehir,paroxetine hcl suspension,2022-01-11,2022-03-02,Sinirlilik,2022-02-08 01:01:21,Kahve,Astim,Astim, ,Hipertansiyon,Astim,0 RH-,91.0,145.0,55,51-60,50,-22
+2,Female,Canakkale,chlordiazepoxide-amitriptyline,2022-01-03,2022-03-18,Agizda Farkli Bir Tat,2022-02-04 08:08:31,Muz,Kalp Hastaliklari,Diyabet,Kemik Erimesi,Diyabet,Diger,B RH-,93.0,158.0,47,41-50,74,-42
+107,Male,Canakkale,doxepin hcl capsule,2022-01-06,2022-03-10,Tansiyon Yukselme,2022-02-08 07:55:59,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,63,-30
+167,Female,Trabzon,hydroxyzine,2022-01-05,2022-03-19,Bas Agrisi,2022-02-19 04:14:26,Istiridye,Kalp Hastaliklari,Hipertansiyon,Kalp Hastaliklari,Kanser, ,A RH-,50.0,158.0,79,71-80,73,-28
+111,Male,Adana,chlordiazepoxide hcl,2022-01-08,2022-03-19,Terleme,2022-02-03 00:24:29,Domates,Kemik Erimesi,Kemik Erimesi,Alzheimer,Kemik Erimesi,Astim,0 RH-,98.0,185.0,56,51-60,70,-44
+116,Male,Izmir,fluocinonide cream,2022-01-10,2022-03-02,Gormede Bulaniklik,2022-02-16 22:10:35,Ispanakgiller,Diyabet,Alzheimer,Diyabet,Alzheimer,Kemik Erimesi,B RH-,57.0,189.0,40,31-40,51,-14
+4,Female,Bursa,venlafaxine,2022-01-02,2022-03-12,Gormede Bulaniklik,2022-02-16 22:10:35,Balik,KOAH,Kemik Erimesi,Kemik Erimesi,Kan Hastaliklari,Hipertansiyon,AB RH-,53.0,176.0,29,19-30,69,-24
+89,Female,Malatya,paroxetine,2022-01-14,2022-03-10,Az Uyuma,2022-02-06 14:28:54,Ispanakgiller,Hipertansiyon,Kanser,Kanser,Alzheimer,Guatr,0 RH+,71.0,184.0,39,31-40,55,-32
+129,Male,Eskisehir,prochlorperazine maleate,2022-01-04,2022-03-03,Terleme,2022-02-03 00:24:29,Muz,Astim,Kalp Hastaliklari,Kanser,Alzheimer,Diyabet,AB RH+,54.0,146.0,73,71-80,58,-28
+89,Female,Malatya,doxepin hcl cream,2022-01-11,2022-03-11,Ishal,2022-02-19 21:47:39,Ispanakgiller,Hipertansiyon,Kanser,Kanser,Alzheimer,Guatr,0 RH+,71.0,184.0,39,31-40,59,-20
+167,Female,Trabzon,paroxetine,2022-01-04,2022-03-12,Agizda Farkli Bir Tat,2022-02-04 08:08:31,Istiridye,Kalp Hastaliklari,Hipertansiyon,Kalp Hastaliklari,Kanser, ,A RH-,50.0,158.0,79,71-80,67,-36
+70,Female,Kayseri,trifluoperazine,2022-01-12,2022-03-08,Az Uyuma,2022-02-19 11:09:36,Havyar,Alzheimer,Guatr,Hipertansiyon,Kalp Hastaliklari,Alzheimer,B RH+,80.0,200.0,81,80+,55,-17
+172,Male,Mersin,tranylcypromine,2022-01-04,2022-03-15,Yorgunluk,2022-02-03 20:48:17,Havyar,Kalp Hastaliklari,Hipertansiyon,Diyabet, ,Kanser,A RH+,108.0,192.0,15,0-18,70,-40
+106,Female,Trabzon,loxapine,2022-01-07,2022-03-16,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Kefir,Hipertansiyon,KOAH,KOAH,Kemik Erimesi,Diyabet,0 RH-,108.0,147.0,70,61-70,68,-25
+54,Male,Trabzon,fluoxetine dr,2022-01-11,2022-03-18,Kabizlik,2022-02-19 18:28:43,Kefir,KOAH,Astim,Alzheimer,Kemik Erimesi,Kemik Erimesi,AB RH+,97.0,176.0,51,51-60,66,-27
+129,Male,Eskisehir,loxapine,2022-01-01,2022-03-18,Sinirlilik,2022-02-08 01:01:21,Muz,Astim,Kalp Hastaliklari,Kanser,Alzheimer,Diyabet,AB RH+,54.0,146.0,73,71-80,76,-38
+187,Female,Bursa,carbamazepine extended release,2022-01-12,2022-03-18,Kas Agrisi,2022-02-11 08:22:07,Kefir,Kanser,Guatr,Kan Hastaliklari,Kanser,Kan Hastaliklari,0 RH-,107.0,178.0,56,51-60,65,-35
+129,Male,Eskisehir,"methylphenidate hcl tablet, chewable",2022-01-01,2022-03-06,Carpinti,2022-02-04 05:29:20,Muz,Astim,Kalp Hastaliklari,Kanser,Alzheimer,Diyabet,AB RH+,54.0,146.0,73,71-80,64,-30
+92,Female,Bursa,halobetasol propionate cream,2022-01-13,2022-03-14,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Deniz Urunler,Hipertansiyon,Hipertansiyon,Guatr,Alzheimer,Kanser,AB RH-,81.0,168.0,51,51-60,60,-23
+167,Female,Trabzon,methylphenidate hcl solution,2022-01-11,2022-03-17,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Istiridye,Kalp Hastaliklari,Hipertansiyon,Kalp Hastaliklari,Kanser, ,A RH-,50.0,158.0,79,71-80,65,-26
+196,Female,Canakkale,trimipramine,2022-01-03,2022-03-17,Ishal,2022-02-19 21:47:39,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,73,-26
+12,Female,Kayseri,trazodone,2022-01-02,2022-03-06,Gec Bosalma,2022-02-14 07:26:11,Domates,KOAH,Astim,Astim,Guatr,Diger,0 RH+,53.0,175.0,79,71-80,63,-20
+116,Male,Izmir,doxepin hcl capsule,2022-01-03,2022-03-14,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Ispanakgiller,Diyabet,Alzheimer,Diyabet,Alzheimer,Kemik Erimesi,B RH-,57.0,189.0,40,31-40,70,-30
+114,Female,Trabzon,hydroxyzine,2022-01-12,2022-03-10,Az Uyuma,2022-02-06 14:28:54,Ispanakgiller,KOAH,Kalp Hastaliklari,Kanser, ,Guatr,0 RH+,51.0,181.0,22,19-30,57,-32
+183,Female,Samsun,aripiprazole tablet with sensor and patch,2022-01-05,2022-03-04,Bas Agrisi,2022-02-19 04:14:26,Havyar,Kan Hastaliklari,Kanser,Hipertansiyon,Hipertansiyon,Astim,B RH-,92.0,153.0,14,0-18,58,-13
+92,Female,Bursa,diazepam,2022-01-02,2022-03-09,Tansiyon Yukselme,2022-02-07 19:26:17,Deniz Urunler,Hipertansiyon,Hipertansiyon,Guatr,Alzheimer,Kanser,AB RH-,81.0,168.0,51,51-60,66,-30
+111,Male,Adana,nortriptyline,2022-01-06,2022-03-07,Kabizlik,2022-02-19 18:28:43,Domates,Kemik Erimesi,Kemik Erimesi,Alzheimer,Kemik Erimesi,Astim,0 RH-,98.0,185.0,56,51-60,60,-16
+190,Male,Ankara,alprazolam intensol,2022-01-04,2022-03-07,Sinirlilik,2022-02-08 01:01:21,Kahve,Kan Hastaliklari,Kan Hastaliklari,Kemik Erimesi,Astim,Diyabet,0 RH+,70.0,169.0,30,19-30,62,-27
+92,Female,Bursa,Prednicarbate cream,2022-01-14,2022-03-04,Karin Agrisi,2022-02-13 13:55:37,Deniz Urunler,Hipertansiyon,Hipertansiyon,Guatr,Alzheimer,Kanser,AB RH-,81.0,168.0,51,51-60,49,-19
+49,Female,Canakkale,"zolpidem tablet, sublingual",2022-01-09,2022-03-17,Gormede Bulaniklik,2022-02-09 01:16:50,Karaciger,Alzheimer,Astim,Diger,Alzheimer,Astim,AB RH-,96.0,155.0,69,61-70,67,-36
+4,Female,Bursa,divalproeks sodyum sprinkle,2022-01-09,2022-03-05,Yorgunluk,2022-02-03 20:48:17,Balik,KOAH,Kemik Erimesi,Kemik Erimesi,Kan Hastaliklari,Hipertansiyon,AB RH-,53.0,176.0,29,19-30,55,-30
+47,Male,Trabzon,citalopram,2022-01-10,2022-03-07,Carpinti,2022-02-04 05:29:20,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,56,-31
+63,Female,Samsun,fluocinolone shampoo,2022-01-07,2022-03-03,Uykululuk Hali,2022-02-02 23:10:47,Ispanakgiller,Hipertansiyon,Kalp Hastaliklari, ,Astim,Guatr,0 RH+,74.0,184.0,72,71-80,55,-29
+177,Male,Mersin,isocarboxazid tablet,2022-01-07,2022-03-13,Tansiyon Dusuklugu,2022-02-14 03:35:01,Kefir,Kemik Erimesi,Alzheimer,Kalp Hastaliklari,Diyabet,KOAH,AB RH-,107.0,165.0,31,31-40,65,-27
+66,Female,Istanbul,fluphenazine decanoate vial,2022-01-03,2022-03-17,Gec Bosalma,2022-02-14 07:26:11,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,73,-31
+141,Male,Ankara,divalproex sodium er,2022-01-14,2022-03-04,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Bugday,Guatr,Kanser,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,A RH-,94.0,197.0,21,19-30,49,-13
+15,Female,Ankara,phenelzine,2022-01-12,2022-03-05,Ishal,2022-02-19 21:47:39,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,52,-14
+167,Female,Trabzon,carbamazepine extended release,2022-01-03,2022-03-12,Ishal,2022-02-12 19:13:43,Istiridye,Kalp Hastaliklari,Hipertansiyon,Kalp Hastaliklari,Kanser, ,A RH-,50.0,158.0,79,71-80,68,-28
+15,Female,Ankara,escitalopram,2022-01-07,2022-03-17,Bas Agrisi,2022-02-19 04:14:26,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,69,-26
+126,Female,Ankara,divalproex sodium er,2022-01-05,2022-03-13,Karin Agrisi,2022-02-13 13:55:37,Domates,Guatr,Kemik Erimesi,Alzheimer,Alzheimer,Kalp Hastaliklari,B RH-,55.0,176.0,32,31-40,67,-28
+183,Female,Samsun,carbamazepine cr,2022-01-05,2022-03-16,Deride Morarma,2022-02-09 20:53:54,Havyar,Kan Hastaliklari,Kanser,Hipertansiyon,Hipertansiyon,Astim,B RH-,92.0,153.0,14,0-18,70,-35
+13,Female,Canakkale,warfarin sodium,2022-01-11,2022-03-14,Kabizlik,2022-02-19 18:28:43,Kabak Cekirdegi,Kan Hastaliklari,Kemik Erimesi,KOAH,Alzheimer,Kemik Erimesi,AB RH+,56.0,189.0,65,61-70,62,-23
+136,Female,Izmir,divalproeks sodyum,2022-01-14,2022-03-14,Gormede Bulaniklik,2022-02-09 01:16:50,Deniz Urunler,Diyabet,Hipertansiyon,Kalp Hastaliklari,Kanser,Guatr,0 RH-,95.0,169.0,66,61-70,59,-33
+66,Female,Istanbul,"desoximetasone spray, non-aerosol",2022-01-04,2022-03-14,Gormede Bulaniklik,2022-02-09 01:16:50,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,69,-33
+71,Male,Canakkale,cariprazine,2022-01-09,2022-03-19,Tansiyon Dusuklugu,2022-02-14 03:35:01,Laktoz,Alzheimer,Kanser,Kalp Hastaliklari,Kanser,Guatr,B RH+,94.0,197.0,45,41-50,69,-33
+63,Female,Samsun,halobetasol propionate foam,2022-01-14,2022-03-19,Tansiyon Yukselme,2022-02-07 19:26:17,Ispanakgiller,Hipertansiyon,Kalp Hastaliklari, ,Astim,Guatr,0 RH+,74.0,184.0,72,71-80,64,-40
+59,Female,Malatya,oxymorphone,2022-01-11,2022-03-03,Sinirlilik,2022-02-08 01:01:21,Sut,Astim,Kan Hastaliklari,Kanser,Hipertansiyon,Astim,AB RH-,80.0,198.0,39,31-40,51,-23
+86,Male,Bursa,olanzapine-fluoxetine,2022-01-13,2022-03-11,Az Uyuma,2022-02-19 11:09:36,Kakao,Kalp Hastaliklari,Diyabet,Alzheimer,Kemik Erimesi,Kanser,A RH+,107.0,179.0,84,80+,57,-20
+17,Male,Eskisehir,"fluocinolone acetonide solution, non-",2022-01-09,2022-03-02,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Kahve,Astim,Astim, ,Hipertansiyon,Astim,0 RH-,91.0,145.0,55,51-60,52,-18
+187,Female,Bursa,trifluoperazine,2022-01-07,2022-03-12,Uykululuk Hali,2022-02-02 23:10:47,Kefir,Kanser,Guatr,Kan Hastaliklari,Kanser,Kan Hastaliklari,0 RH-,107.0,178.0,56,51-60,64,-38
+86,Male,Bursa,risperidone odt,2022-01-10,2022-03-12,Tansiyon Yukselme,2022-02-07 19:26:17,Kakao,Kalp Hastaliklari,Diyabet,Alzheimer,Kemik Erimesi,Kanser,A RH+,107.0,179.0,84,80+,61,-33
+13,Female,Canakkale,doxepin hcl tablet,2022-01-09,2022-03-13,Tansiyon Yukselme,2022-02-03 16:27:30,Kabak Cekirdegi,Kan Hastaliklari,Kemik Erimesi,KOAH,Alzheimer,Kemik Erimesi,AB RH+,56.0,189.0,65,61-70,63,-38
+172,Male,Mersin,"methylphenidate hcl tablet, chewable",2022-01-11,2022-03-08,Gormede Bulaniklik,2022-02-16 22:10:35,Havyar,Kalp Hastaliklari,Hipertansiyon,Diyabet, ,Kanser,A RH+,108.0,192.0,15,0-18,56,-20
+136,Female,Izmir,butisol sodium,2022-01-05,2022-03-13,Gormede Bulaniklik,2022-02-16 22:10:35,Deniz Urunler,Diyabet,Hipertansiyon,Kalp Hastaliklari,Kanser,Guatr,0 RH-,95.0,169.0,66,61-70,67,-25
+107,Male,Canakkale,"methylphenidate hcl tablet, chewable",2022-01-12,2022-03-15,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,62,-31
+129,Male,Eskisehir,risperidone odt,2022-01-02,2022-03-19,Mide Bulantisi,2022-02-05 06:50:13,Muz,Astim,Kalp Hastaliklari,Kanser,Alzheimer,Diyabet,AB RH+,54.0,146.0,73,71-80,76,-42
+70,Female,Kayseri,"zolpidem tablet, sublingual",2022-01-12,2022-03-19,Tansiyon Yukselme,2022-02-03 16:27:30,Havyar,Alzheimer,Guatr,Hipertansiyon,Kalp Hastaliklari,Alzheimer,B RH+,80.0,200.0,81,80+,66,-44
+12,Female,Kayseri,"betamethasone dipropionate aerosol, spray with pump",2022-01-03,2022-03-19,Terleme,2022-02-03 00:24:29,Domates,KOAH,Astim,Astim,Guatr,Diger,0 RH+,53.0,175.0,79,71-80,75,-44
+145,Male,Kayseri,quetiapine er,2022-01-03,2022-03-07,Deride Morarma,2022-02-09 20:53:54,Toz,Kalp Hastaliklari,Hipertansiyon,KOAH,Astim,Hipertansiyon,B RH-,66.0,153.0,83,80+,63,-26
+59,Female,Malatya,vilazodone,2022-01-08,2022-03-12,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Sut,Astim,Kan Hastaliklari,Kanser,Hipertansiyon,Astim,AB RH-,80.0,198.0,39,31-40,63,-21
+152,Female,Canakkale,methylphenidate hcl solution,2022-01-04,2022-03-03,Mide Bulantisi,2022-02-05 06:50:13,Laktoz,Kemik Erimesi,Alzheimer,Hipertansiyon,Diyabet,Kanser,AB RH-,64.0,153.0,38,31-40,58,-26
+4,Female,Bursa,paroxetine,2022-01-01,2022-03-17,Gucsuzluk,2022-02-01 04:34:33,Balik,KOAH,Kemik Erimesi,Kemik Erimesi,Kan Hastaliklari,Hipertansiyon,AB RH-,53.0,176.0,29,19-30,75,-44
+177,Male,Mersin,loxapine,2022-01-09,2022-03-08,Gormede Bulaniklik,2022-02-09 01:16:50,Kefir,Kemik Erimesi,Alzheimer,Kalp Hastaliklari,Diyabet,KOAH,AB RH-,107.0,165.0,31,31-40,58,-27
+15,Female,Ankara,alprazolam concentrate,2022-01-03,2022-03-13,Tansiyon Yukselme,2022-02-03 16:27:30,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,69,-38
+187,Female,Bursa,fluoxetine,2022-01-02,2022-03-18,Gec Bosalma,2022-02-14 07:26:11,Kefir,Kanser,Guatr,Kan Hastaliklari,Kanser,Kan Hastaliklari,0 RH-,107.0,178.0,56,51-60,75,-32
+2,Female,Canakkale,olanzapine-fluoxetine,2022-01-11,2022-03-12,Tansiyon Yukselme,2022-02-08 07:55:59,Muz,Kalp Hastaliklari,Diyabet,Kemik Erimesi,Diyabet,Diger,B RH-,93.0,158.0,47,41-50,60,-32
+45,Female,Trabzon,bupropion hcl,2022-01-04,2022-03-06,Bulanti,2022-02-18 05:26:31,Domates,Alzheimer,Astim,Hipertansiyon,Kalp Hastaliklari,Astim,0 RH+,52.0,178.0,84,80+,61,-16
+111,Male,Adana,paroxetine er,2022-01-07,2022-03-04,Tansiyon Yukselme,2022-02-03 16:27:30,Domates,Kemik Erimesi,Kemik Erimesi,Alzheimer,Kemik Erimesi,Astim,0 RH-,98.0,185.0,56,51-60,56,-29
+147,Male,Malatya,prazosin,2022-01-03,2022-03-02,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Ispanak,Diyabet,Hipertansiyon,Kanser,Kemik Erimesi,KOAH,0 RH+,69.0,203.0,81,80+,58,-11
+141,Male,Ankara,doxepin hcl cream,2022-01-03,2022-03-09,Gormede Bulaniklik,2022-02-09 01:16:50,Bugday,Guatr,Kanser,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,A RH-,94.0,197.0,21,19-30,65,-28
+59,Female,Malatya,hydroxyzine,2022-01-10,2022-03-16,Bulanti,2022-02-18 05:26:31,Sut,Astim,Kan Hastaliklari,Kanser,Hipertansiyon,Astim,AB RH-,80.0,198.0,39,31-40,65,-26
+183,Female,Samsun,divalproeks sodyum er,2022-01-08,2022-03-04,Bas Agrisi,2022-02-19 04:14:26,Havyar,Kan Hastaliklari,Kanser,Hipertansiyon,Hipertansiyon,Astim,B RH-,92.0,153.0,14,0-18,55,-13
+113,Male,Trabzon,"duloxetine 60 mg capsule,delayed release sprinkle",2022-01-02,2022-03-17,Gec Bosalma,2022-02-14 07:26:11,Kahve,KOAH,Astim,Guatr,KOAH,Kan Hastaliklari,0 RH+,76.0,155.0,14,0-18,74,-31
+86,Male,Bursa,valproic acid,2022-01-03,2022-03-07,Gucsuzluk,2022-02-01 04:34:33,Kakao,Kalp Hastaliklari,Diyabet,Alzheimer,Kemik Erimesi,Kanser,A RH+,107.0,179.0,84,80+,63,-34
+145,Male,Kayseri,divalproeks sodyum er,2022-01-12,2022-03-14,Ishal,2022-02-19 21:47:39,Toz,Kalp Hastaliklari,Hipertansiyon,KOAH,Astim,Hipertansiyon,B RH-,66.0,153.0,83,80+,61,-23
+29,Male,Antalya,mometasone furoate ointment,2022-01-04,2022-03-16,Karin Agrisi,2022-02-13 13:55:37,Kabak Cekirdegi,Diyabet,Alzheimer,Astim,Kanser,Guatr,A RH+,108.0,163.0,74,71-80,71,-31
+148,Male,Bursa,methylphenidate er,2022-01-11,2022-03-16,Mide Bulantisi,2022-02-05 06:50:13,Ispanak,Kemik Erimesi,Astim, ,Alzheimer,Kalp Hastaliklari,0 RH+,94.0,197.0,43,41-50,64,-39
+148,Male,Bursa,"duloxetine 60 mg capsule,delayed release sprinkle",2022-01-14,2022-03-03,Az Uyuma,2022-02-19 11:09:36,Ispanak,Kemik Erimesi,Astim, ,Alzheimer,Kalp Hastaliklari,0 RH+,94.0,197.0,43,41-50,48,-12
+172,Male,Mersin,dipyridamole,2022-01-12,2022-03-05,Gucsuzluk,2022-02-01 04:34:33,Havyar,Kalp Hastaliklari,Hipertansiyon,Diyabet, ,Kanser,A RH+,108.0,192.0,15,0-18,52,-32
+89,Female,Malatya,venlafaxine xr,2022-01-04,2022-03-19,Az Uyuma,2022-02-19 11:09:36,Ispanakgiller,Hipertansiyon,Kanser,Kanser,Alzheimer,Guatr,0 RH+,71.0,184.0,39,31-40,74,-28
+183,Female,Samsun,"methylphenidate suspension, extended release 24 hr, reconstituted (suspension, er reconstituted)",2022-01-01,2022-03-17,Ishal,2022-02-12 19:13:43,Havyar,Kan Hastaliklari,Kanser,Hipertansiyon,Hipertansiyon,Astim,B RH-,92.0,153.0,14,0-18,75,-33
+92,Female,Bursa,imipramine pamoate,2022-01-02,2022-03-10,Kas Agrisi,2022-02-11 08:22:07,Deniz Urunler,Hipertansiyon,Hipertansiyon,Guatr,Alzheimer,Kanser,AB RH-,81.0,168.0,51,51-60,67,-27
+111,Male,Adana,imipramine hcl,2022-01-13,2022-03-13,Gucsuzluk,2022-02-01 04:34:33,Domates,Kemik Erimesi,Kemik Erimesi,Alzheimer,Kemik Erimesi,Astim,0 RH-,98.0,185.0,56,51-60,59,-40
+70,Female,Kayseri,secobarbital,2022-01-11,2022-03-06,Tansiyon Yukselme,2022-02-08 07:55:59,Havyar,Alzheimer,Guatr,Hipertansiyon,Kalp Hastaliklari,Alzheimer,B RH+,80.0,200.0,81,80+,54,-26
+29,Male,Antalya,"methylphenidate er tablet, extended release 24 hr",2022-01-04,2022-03-16,Gormede Bulaniklik,2022-02-09 01:16:50,Kabak Cekirdegi,Diyabet,Alzheimer,Astim,Kanser,Guatr,A RH+,108.0,163.0,74,71-80,71,-35
+70,Female,Kayseri,methylphenidate er,2022-01-05,2022-03-18,Gucsuzluk,2022-02-01 04:34:33,Havyar,Alzheimer,Guatr,Hipertansiyon,Kalp Hastaliklari,Alzheimer,B RH+,80.0,200.0,81,80+,72,-45
+161,Female,Istanbul,fluocinolone acetonide oil,2022-01-10,2022-03-15,Yorgunluk,2022-02-17 11:54:49,Pancar,Kalp Hastaliklari,KOAH,Astim,Diyabet,Kalp Hastaliklari,B RH-,80.0,158.0,70,61-70,64,-26
+136,Female,Izmir,desvenlafaxine er,2022-01-11,2022-03-11,Agizda Farkli Bir Tat,2022-02-04 08:08:31,Deniz Urunler,Diyabet,Hipertansiyon,Kalp Hastaliklari,Kanser,Guatr,0 RH-,95.0,169.0,66,61-70,59,-35
+66,Female,Istanbul,amitriptyline hcl,2022-01-11,2022-03-09,Ishal,2022-02-19 21:47:39,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,57,-18
+150,Male,Eskisehir,Prednicarbate cream,2022-01-03,2022-03-07,Istah Artisi,2022-02-17 07:08:01,Elma,Astim,Kan Hastaliklari,Kemik Erimesi,Guatr,Astim,A RH-,56.0,162.0,21,19-30,63,-18
+44,Male,Adana,"betamethasone dipropionate aerosol, spray with pump",2022-01-01,2022-03-09,Yorgunluk,2022-02-17 11:54:49,Domates,Kemik Erimesi,Hipertansiyon,Kan Hastaliklari,Kalp Hastaliklari,Kanser,A RH-,82.0,187.0,26,19-30,67,-20
+17,Male,Eskisehir,trifluoperazine,2022-01-04,2022-03-18,Kas Agrisi,2022-02-11 08:22:07,Kahve,Astim,Astim, ,Hipertansiyon,Astim,0 RH-,91.0,145.0,55,51-60,73,-35
+12,Female,Kayseri,methylphenidate hcl solution,2022-01-03,2022-03-11,Mide Bulantisi,2022-02-05 06:50:13,Domates,KOAH,Astim,Astim,Guatr,Diger,0 RH+,53.0,175.0,79,71-80,67,-34
+71,Male,Canakkale,valproic acid solution,2022-01-06,2022-03-09,Tansiyon Dusuklugu,2022-02-14 03:35:01,Laktoz,Alzheimer,Kanser,Kalp Hastaliklari,Kanser,Guatr,B RH+,94.0,197.0,45,41-50,62,-23
+13,Female,Canakkale,betamethasone valerate foam,2022-01-05,2022-03-11,Deride Morarma,2022-02-09 20:53:54,Kabak Cekirdegi,Kan Hastaliklari,Kemik Erimesi,KOAH,Alzheimer,Kemik Erimesi,AB RH+,56.0,189.0,65,61-70,65,-30
+104,Female,Istanbul,chlordiazepoxide-amitriptyline,2022-01-05,2022-03-13,Yorgunluk,2022-02-17 11:54:49,Kahve,KOAH,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,Diyabet,A RH-,79.0,191.0,57,51-60,67,-24
+2,Female,Canakkale,Prednicarbate cream,2022-01-07,2022-03-17,Gormede Bulaniklik,2022-02-16 22:10:35,Muz,Kalp Hastaliklari,Diyabet,Kemik Erimesi,Diyabet,Diger,B RH-,93.0,158.0,47,41-50,69,-29
+172,Male,Mersin,escitalopram,2022-01-03,2022-03-15,Terleme,2022-02-03 00:24:29,Havyar,Kalp Hastaliklari,Hipertansiyon,Diyabet, ,Kanser,A RH+,108.0,192.0,15,0-18,71,-40
+150,Male,Eskisehir,desonide foam,2022-01-14,2022-03-17,Gormede Bulaniklik,2022-02-09 01:16:50,Elma,Astim,Kan Hastaliklari,Kemik Erimesi,Guatr,Astim,A RH-,56.0,162.0,21,19-30,62,-36
+187,Female,Bursa,lorazepam vial,2022-01-11,2022-03-14,Yorgunluk,2022-02-17 11:54:49,Kefir,Kanser,Guatr,Kan Hastaliklari,Kanser,Kan Hastaliklari,0 RH-,107.0,178.0,56,51-60,62,-25
+29,Male,Antalya,fluvoxamine maleate,2022-01-14,2022-03-08,Tansiyon Yukselme,2022-02-07 19:26:17,Kabak Cekirdegi,Diyabet,Alzheimer,Astim,Kanser,Guatr,A RH+,108.0,163.0,74,71-80,53,-29
+13,Female,Canakkale,olanzapine odt,2022-01-02,2022-03-15,Kabizlik,2022-02-02 06:09:22,Kabak Cekirdegi,Kan Hastaliklari,Kemik Erimesi,KOAH,Alzheimer,Kemik Erimesi,AB RH+,56.0,189.0,65,61-70,72,-41
+62,Male,Samsun,fluphenazine hcl elixir,2022-01-08,2022-03-09,Terleme,2022-02-03 00:24:29,Cikolata,Kemik Erimesi,Kanser,Kan Hastaliklari,Kanser,Diyabet,B RH-,88.0,182.0,23,19-30,60,-34
+141,Male,Ankara,chlordiazepoxide-amitriptyline,2022-01-11,2022-03-19,Uykululuk Hali,2022-02-02 23:10:47,Bugday,Guatr,Kanser,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,A RH-,94.0,197.0,21,19-30,67,-45
+196,Female,Canakkale,ziprasidone vial,2022-01-09,2022-03-18,Sinirlilik,2022-02-08 01:01:21,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,68,-38
+29,Male,Antalya,venlafaxine xr,2022-01-14,2022-03-16,Karin Agrisi,2022-02-13 13:55:37,Kabak Cekirdegi,Diyabet,Alzheimer,Astim,Kanser,Guatr,A RH+,108.0,163.0,74,71-80,61,-31
+70,Female,Kayseri,quetiapine,2022-01-01,2022-03-11,Yorgunluk,2022-02-17 11:54:49,Havyar,Alzheimer,Guatr,Hipertansiyon,Kalp Hastaliklari,Alzheimer,B RH+,80.0,200.0,81,80+,69,-22
+161,Female,Istanbul,prochlorperazine maleate,2022-01-07,2022-03-13,Tansiyon Yukselme,2022-02-07 19:26:17,Pancar,Kalp Hastaliklari,KOAH,Astim,Diyabet,Kalp Hastaliklari,B RH-,80.0,158.0,70,61-70,65,-34
+109,Female,Ankara,valproic acid,2022-01-03,2022-03-12,Mide Bulantisi,2022-02-05 06:50:13,Kolali Icecek,Kalp Hastaliklari,Kanser,Kalp Hastaliklari,Astim,Diyabet,A RH-,62.0,158.0,18,0-18,68,-35
+185,Female,Canakkale,alprazolam er,2022-01-09,2022-03-18,Karin Agrisi,2022-02-13 13:55:37,Ispanak,Diyabet,KOAH,Diyabet,Hipertansiyon,Alzheimer,0 RH+,109.0,172.0,59,51-60,68,-33
+17,Male,Eskisehir,diazepam,2022-01-06,2022-03-03,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Kahve,Astim,Astim, ,Hipertansiyon,Astim,0 RH-,91.0,145.0,55,51-60,56,-12
+107,Male,Canakkale,"duloxetine 60 mg capsule,delayed release sprinkle",2022-01-05,2022-03-07,Tansiyon Yukselme,2022-02-03 16:27:30,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,61,-32
+116,Male,Izmir,dipyridamole,2022-01-06,2022-03-07,Kas Agrisi,2022-02-11 08:22:07,Ispanakgiller,Diyabet,Alzheimer,Diyabet,Alzheimer,Kemik Erimesi,B RH-,57.0,189.0,40,31-40,60,-24
+148,Male,Bursa,methylphenidate hcl solution,2022-01-07,2022-03-19,Gucsuzluk,2022-02-01 04:34:33,Ispanak,Kemik Erimesi,Astim, ,Alzheimer,Kalp Hastaliklari,0 RH+,94.0,197.0,43,41-50,71,-46
+190,Male,Ankara,"desvenlafaxine succinate tablet, extended release 24 hr",2022-01-04,2022-03-15,Huzursuzluk,2022-02-01 13:27:16,Kahve,Kan Hastaliklari,Kan Hastaliklari,Kemik Erimesi,Astim,Diyabet,0 RH+,70.0,169.0,30,19-30,70,-42
+44,Male,Adana,haloperidol decanoate,2022-01-06,2022-03-14,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Domates,Kemik Erimesi,Hipertansiyon,Kan Hastaliklari,Kalp Hastaliklari,Kanser,A RH-,82.0,187.0,26,19-30,67,-30
+147,Male,Malatya,olanzapine-fluoxetine,2022-01-06,2022-03-08,Carpinti,2022-02-04 05:29:20,Ispanak,Diyabet,Hipertansiyon,Kanser,Kemik Erimesi,KOAH,0 RH+,69.0,203.0,81,80+,61,-32
+156,Female,Antalya,halobetasol propionate foam,2022-01-01,2022-03-15,Tansiyon Yukselme,2022-02-08 07:55:59,Karaciger,Kemik Erimesi,Guatr,Kemik Erimesi,Diyabet,Kalp Hastaliklari,AB RH-,80.0,171.0,17,0-18,73,-35
+44,Male,Adana,doxepin hcl cream,2022-01-05,2022-03-17,Gec Bosalma,2022-02-14 07:26:11,Domates,Kemik Erimesi,Hipertansiyon,Kan Hastaliklari,Kalp Hastaliklari,Kanser,A RH-,82.0,187.0,26,19-30,71,-31
+190,Male,Ankara,chlordiazepoxide-amitriptyline,2022-01-14,2022-03-13,Yorgunluk,2022-02-03 20:48:17,Kahve,Kan Hastaliklari,Kan Hastaliklari,Kemik Erimesi,Astim,Diyabet,0 RH+,70.0,169.0,30,19-30,58,-38
+177,Male,Mersin,"divalproex sodium capsule, sprinkle",2022-01-04,2022-03-12,Tansiyon Yukselme,2022-02-03 16:27:30,Kefir,Kemik Erimesi,Alzheimer,Kalp Hastaliklari,Diyabet,KOAH,AB RH-,107.0,165.0,31,31-40,67,-37
+133,Female,Canakkale,carbamazepine extended release,2022-01-14,2022-03-13,Terleme,2022-02-03 00:24:29,Elma,Kan Hastaliklari,Kanser,KOAH,Kemik Erimesi,Hipertansiyon,0 RH+,88.0,181.0,53,51-60,58,-38
+86,Male,Bursa,amoksapin,2022-01-12,2022-03-16,Ishal,2022-02-12 19:13:43,Kakao,Kalp Hastaliklari,Diyabet,Alzheimer,Kemik Erimesi,Kanser,A RH+,107.0,179.0,84,80+,63,-32
+17,Male,Eskisehir,"fluocinolone acetonide solution, non-",2022-01-13,2022-03-10,Istah Artisi,2022-02-17 07:08:01,Kahve,Astim,Astim, ,Hipertansiyon,Astim,0 RH-,91.0,145.0,55,51-60,56,-21
+104,Female,Istanbul,lorazepam,2022-01-14,2022-03-17,Sinirlilik,2022-02-08 01:01:21,Kahve,KOAH,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,Diyabet,A RH-,79.0,191.0,57,51-60,62,-37
+113,Male,Trabzon,lamotrigine er,2022-01-09,2022-03-15,Carpinti,2022-02-04 05:29:20,Kahve,KOAH,Astim,Guatr,KOAH,Kan Hastaliklari,0 RH+,76.0,155.0,14,0-18,65,-39
+13,Female,Canakkale,desonide lotion,2022-01-08,2022-03-15,Terleme,2022-02-03 00:24:29,Kabak Cekirdegi,Kan Hastaliklari,Kemik Erimesi,KOAH,Alzheimer,Kemik Erimesi,AB RH+,56.0,189.0,65,61-70,66,-40
+104,Female,Istanbul,fluphenazine decanoate vial,2022-01-01,2022-03-13,Gec Bosalma,2022-02-14 07:26:11,Kahve,KOAH,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,Diyabet,A RH-,79.0,191.0,57,51-60,71,-27
+47,Male,Trabzon,ziprasidone vial,2022-01-11,2022-03-08,Gormede Bulaniklik,2022-02-09 01:16:50,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,56,-27
+17,Male,Eskisehir,alprazolam odt,2022-01-03,2022-03-04,Gormede Bulaniklik,2022-02-09 01:16:50,Kahve,Astim,Astim, ,Hipertansiyon,Astim,0 RH-,91.0,145.0,55,51-60,60,-23
+177,Male,Mersin,dipyridamole,2022-01-08,2022-03-16,Kabizlik,2022-02-02 06:09:22,Kefir,Kemik Erimesi,Alzheimer,Kalp Hastaliklari,Diyabet,KOAH,AB RH-,107.0,165.0,31,31-40,67,-42
+150,Male,Eskisehir,fluoxetine,2022-01-11,2022-03-09,Deride Morarma,2022-02-09 20:53:54,Elma,Astim,Kan Hastaliklari,Kemik Erimesi,Guatr,Astim,A RH-,56.0,162.0,21,19-30,57,-28
+126,Female,Ankara,fluvoxamine maleate er,2022-01-11,2022-03-06,Terleme,2022-02-03 00:24:29,Domates,Guatr,Kemik Erimesi,Alzheimer,Alzheimer,Kalp Hastaliklari,B RH-,55.0,176.0,32,31-40,54,-31
+49,Female,Canakkale,tranylcypromine,2022-01-13,2022-03-08,Tansiyon Yukselme,2022-02-08 07:55:59,Karaciger,Alzheimer,Astim,Diger,Alzheimer,Astim,AB RH-,96.0,155.0,69,61-70,54,-28
+196,Female,Canakkale,escitalopram,2022-01-01,2022-03-14,Bas Agrisi,2022-02-19 04:14:26,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,72,-23
+2,Female,Canakkale,"desvenlafaxine succinate tablet, extended release 24 hr",2022-01-09,2022-03-16,Tansiyon Yukselme,2022-02-07 19:26:17,Muz,Kalp Hastaliklari,Diyabet,Kemik Erimesi,Diyabet,Diger,B RH-,93.0,158.0,47,41-50,66,-37
+13,Female,Canakkale,Levomilnacipran,2022-01-11,2022-03-19,Gec Bosalma,2022-02-14 07:26:11,Kabak Cekirdegi,Kan Hastaliklari,Kemik Erimesi,KOAH,Alzheimer,Kemik Erimesi,AB RH+,56.0,189.0,65,61-70,67,-33
+47,Male,Trabzon,"methylphenidate suspension, extended release 24 hr, reconstituted (suspension, er reconstituted)",2022-01-04,2022-03-03,Istah Artisi,2022-02-17 07:08:01,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,58,-14
+187,Female,Bursa,warfarin sodium,2022-01-14,2022-03-07,Az Uyuma,2022-02-06 14:28:54,Kefir,Kanser,Guatr,Kan Hastaliklari,Kanser,Kan Hastaliklari,0 RH-,107.0,178.0,56,51-60,52,-29
+126,Female,Ankara,risperidone,2022-01-03,2022-03-12,Ishal,2022-02-12 19:13:43,Domates,Guatr,Kemik Erimesi,Alzheimer,Alzheimer,Kalp Hastaliklari,B RH-,55.0,176.0,32,31-40,68,-28
+129,Male,Eskisehir,duloxetine delayed release capsules,2022-01-13,2022-03-03,Yorgunluk,2022-02-03 20:48:17,Muz,Astim,Kalp Hastaliklari,Kanser,Alzheimer,Diyabet,AB RH+,54.0,146.0,73,71-80,49,-28
+183,Female,Samsun,pimozide,2022-01-07,2022-03-14,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Havyar,Kan Hastaliklari,Kanser,Hipertansiyon,Hipertansiyon,Astim,B RH-,92.0,153.0,14,0-18,66,-30
+54,Male,Trabzon,brexpiprazole,2022-01-03,2022-03-10,Tansiyon Yukselme,2022-02-08 07:55:59,Kefir,KOAH,Astim,Alzheimer,Kemik Erimesi,Kemik Erimesi,AB RH+,97.0,176.0,51,51-60,66,-30
+156,Female,Antalya,isocarboxazid tablet,2022-01-04,2022-03-15,Huzursuzluk,2022-02-01 13:27:16,Karaciger,Kemik Erimesi,Guatr,Kemik Erimesi,Diyabet,Kalp Hastaliklari,AB RH-,80.0,171.0,17,0-18,70,-42
+106,Female,Trabzon,carbamazepine,2022-01-09,2022-03-19,Az Uyuma,2022-02-19 11:09:36,Kefir,Hipertansiyon,KOAH,KOAH,Kemik Erimesi,Diyabet,0 RH-,108.0,147.0,70,61-70,69,-28
+66,Female,Istanbul,warfarin sodium,2022-01-14,2022-03-06,Yorgunluk,2022-02-17 11:54:49,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,51,-17
+126,Female,Ankara,chlordiazepoxide-amitriptyline,2022-01-03,2022-03-10,Gormede Bulaniklik,2022-02-16 22:10:35,Domates,Guatr,Kemik Erimesi,Alzheimer,Alzheimer,Kalp Hastaliklari,B RH-,55.0,176.0,32,31-40,66,-22
+141,Male,Ankara,duloxetine delayed release capsules,2022-01-02,2022-03-06,Ishal,2022-02-19 21:47:39,Bugday,Guatr,Kanser,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,A RH-,94.0,197.0,21,19-30,63,-15
+15,Female,Ankara,lorazepam concentrate,2022-01-01,2022-03-15,Sinirlilik,2022-02-08 01:01:21,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,73,-35
+62,Male,Samsun,zaleplon,2022-01-06,2022-03-06,Ishal,2022-02-19 21:47:39,Cikolata,Kemik Erimesi,Kanser,Kan Hastaliklari,Kanser,Diyabet,B RH-,88.0,182.0,23,19-30,59,-15
+15,Female,Ankara,oxymorphone,2022-01-07,2022-03-10,Kabizlik,2022-02-19 18:28:43,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,62,-19
+152,Female,Canakkale,alprazolam intensol,2022-01-11,2022-03-08,Az Uyuma,2022-02-06 14:28:54,Laktoz,Kemik Erimesi,Alzheimer,Hipertansiyon,Diyabet,Kanser,AB RH-,64.0,153.0,38,31-40,56,-30
+45,Female,Trabzon,hydroxyzine,2022-01-11,2022-03-09,Gormede Bulaniklik,2022-02-16 22:10:35,Domates,Alzheimer,Astim,Hipertansiyon,Kalp Hastaliklari,Astim,0 RH+,52.0,178.0,84,80+,57,-21
+66,Female,Istanbul,oxymorphone,2022-01-13,2022-03-17,Gucsuzluk,2022-02-01 04:34:33,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,63,-44
+133,Female,Canakkale,ziprasidone vial,2022-01-05,2022-03-11,Huzursuzluk,2022-02-01 13:27:16,Elma,Kan Hastaliklari,Kanser,KOAH,Kemik Erimesi,Hipertansiyon,0 RH+,88.0,181.0,53,51-60,65,-38
+66,Female,Istanbul,carbamazepine cr,2022-01-08,2022-03-07,Yorgunluk,2022-02-03 20:48:17,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,58,-32
+147,Male,Malatya,butisol sodium,2022-01-09,2022-03-17,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Ispanak,Diyabet,Hipertansiyon,Kanser,Kemik Erimesi,KOAH,0 RH+,69.0,203.0,81,80+,67,-33
+141,Male,Ankara,aripipirazol,2022-01-08,2022-03-10,Yorgunluk,2022-02-14 03:19:06,Bugday,Guatr,Kanser,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,A RH-,94.0,197.0,21,19-30,61,-24
+107,Male,Canakkale,asenapine sublingual tablet,2022-01-09,2022-03-15,Terleme,2022-02-03 00:24:29,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,65,-40
+109,Female,Ankara,phenelzine,2022-01-05,2022-03-07,Bulanti,2022-02-18 05:26:31,Kolali Icecek,Kalp Hastaliklari,Kanser,Kalp Hastaliklari,Astim,Diyabet,A RH-,62.0,158.0,18,0-18,61,-17
+172,Male,Mersin,butisol sodium,2022-01-10,2022-03-18,Az Uyuma,2022-02-19 11:09:36,Havyar,Kalp Hastaliklari,Hipertansiyon,Diyabet, ,Kanser,A RH+,108.0,192.0,15,0-18,67,-27
+167,Female,Trabzon,quetiapine er,2022-01-13,2022-03-11,Yorgunluk,2022-02-17 11:54:49,Istiridye,Kalp Hastaliklari,Hipertansiyon,Kalp Hastaliklari,Kanser, ,A RH-,50.0,158.0,79,71-80,57,-22
+177,Male,Mersin,isocarboxazid tablet,2022-01-13,2022-03-11,Tansiyon Yukselme,2022-02-08 07:55:59,Kefir,Kemik Erimesi,Alzheimer,Kalp Hastaliklari,Diyabet,KOAH,AB RH-,107.0,165.0,31,31-40,57,-31
+47,Male,Trabzon,isocarboxazid tablet,2022-01-11,2022-03-09,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,57,-18
+54,Male,Trabzon,trifluoperazine,2022-01-11,2022-03-13,Karin Agrisi,2022-02-13 13:55:37,Kefir,KOAH,Astim,Alzheimer,Kemik Erimesi,Kemik Erimesi,AB RH+,97.0,176.0,51,51-60,61,-28
+49,Female,Canakkale,fluocinolone acetonide oil,2022-01-08,2022-03-07,Kabizlik,2022-02-19 18:28:43,Karaciger,Alzheimer,Astim,Diger,Alzheimer,Astim,AB RH-,96.0,155.0,69,61-70,58,-16
+15,Female,Ankara,aripiprazole odt,2022-01-13,2022-03-19,Kabizlik,2022-02-19 18:28:43,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,65,-28
+15,Female,Ankara,hydrocortisone cream,2022-01-05,2022-03-04,Gec Bosalma,2022-02-14 07:26:11,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,58,-18
+111,Male,Adana,hydroxyzine hcl,2022-01-02,2022-03-04,Ishal,2022-02-12 19:13:43,Domates,Kemik Erimesi,Kemik Erimesi,Alzheimer,Kemik Erimesi,Astim,0 RH-,98.0,185.0,56,51-60,61,-20
+44,Male,Adana,risperidone odt,2022-01-13,2022-03-19,Kas Agrisi,2022-02-11 08:22:07,Domates,Kemik Erimesi,Hipertansiyon,Kan Hastaliklari,Kalp Hastaliklari,Kanser,A RH-,82.0,187.0,26,19-30,65,-36
+129,Male,Eskisehir,olanzapine,2022-01-08,2022-03-17,Terleme,2022-02-03 00:24:29,Muz,Astim,Kalp Hastaliklari,Kanser,Alzheimer,Diyabet,AB RH+,54.0,146.0,73,71-80,68,-42
+190,Male,Ankara,butisol sodium,2022-01-07,2022-03-15,Gormede Bulaniklik,2022-02-09 01:16:50,Kahve,Kan Hastaliklari,Kan Hastaliklari,Kemik Erimesi,Astim,Diyabet,0 RH+,70.0,169.0,30,19-30,67,-34
+107,Male,Canakkale,maprotiline hcl,2022-01-12,2022-03-16,Agizda Farkli Bir Tat,2022-02-04 08:08:31,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,63,-40
+12,Female,Kayseri,amitriptyline hcl,2022-01-07,2022-03-18,Sinirlilik,2022-02-08 01:01:21,Domates,KOAH,Astim,Astim,Guatr,Diger,0 RH+,53.0,175.0,79,71-80,70,-38
+66,Female,Istanbul,risperidone,2022-01-03,2022-03-12,Az Uyuma,2022-02-19 11:09:36,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,68,-21
+106,Female,Trabzon,"asenapine tablet, sublingual",2022-01-12,2022-03-04,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Kefir,Hipertansiyon,KOAH,KOAH,Kemik Erimesi,Diyabet,0 RH-,108.0,147.0,70,61-70,51,-13
+152,Female,Canakkale,fluvoxamine maleate,2022-01-05,2022-03-16,Ishal,2022-02-19 21:47:39,Laktoz,Kemik Erimesi,Alzheimer,Hipertansiyon,Diyabet,Kanser,AB RH-,64.0,153.0,38,31-40,70,-25
+62,Male,Samsun,prochlorperazine maleate,2022-01-08,2022-03-07,Tansiyon Yukselme,2022-02-07 19:26:17,Cikolata,Kemik Erimesi,Kanser,Kan Hastaliklari,Kanser,Diyabet,B RH-,88.0,182.0,23,19-30,58,-28
+104,Female,Istanbul,halobetasol propionate foam,2022-01-09,2022-03-03,Tansiyon Yukselme,2022-02-03 16:27:30,Kahve,KOAH,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,Diyabet,A RH-,79.0,191.0,57,51-60,53,-28
+54,Male,Trabzon,fluphenazine decanoate vial,2022-01-13,2022-03-16,Yorgunluk,2022-02-17 11:54:49,Kefir,KOAH,Astim,Alzheimer,Kemik Erimesi,Kemik Erimesi,AB RH+,97.0,176.0,51,51-60,62,-27
+196,Female,Canakkale,aripiprazole,2022-01-09,2022-03-12,Mide Bulantisi,2022-02-05 06:50:13,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,62,-35
+196,Female,Canakkale,duloxetine hcl,2022-01-08,2022-03-19,Terleme,2022-02-03 00:24:29,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,70,-44
+29,Male,Antalya,Mometasone furoate,2022-01-03,2022-03-09,Tansiyon Yukselme,2022-02-08 07:55:59,Kabak Cekirdegi,Diyabet,Alzheimer,Astim,Kanser,Guatr,A RH+,108.0,163.0,74,71-80,65,-29
+63,Female,Samsun,aripipirazol,2022-01-06,2022-03-15,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Ispanakgiller,Hipertansiyon,Kalp Hastaliklari, ,Astim,Guatr,0 RH+,74.0,184.0,72,71-80,68,-24
+126,Female,Ankara,Mometasone furoate,2022-01-04,2022-03-07,Huzursuzluk,2022-02-01 13:27:16,Domates,Guatr,Kemik Erimesi,Alzheimer,Alzheimer,Kalp Hastaliklari,B RH-,55.0,176.0,32,31-40,62,-34
+129,Male,Eskisehir,methylphenidate er,2022-01-03,2022-03-14,Uykululuk Hali,2022-02-02 23:10:47,Muz,Astim,Kalp Hastaliklari,Kanser,Alzheimer,Diyabet,AB RH+,54.0,146.0,73,71-80,70,-40
+47,Male,Trabzon,fluocinolone acetonide cream,2022-01-11,2022-03-18,Uykululuk Hali,2022-02-02 23:10:47,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,66,-44
+17,Male,Eskisehir,iloperidone,2022-01-13,2022-03-06,Deride Morarma,2022-02-09 20:53:54,Kahve,Astim,Astim, ,Hipertansiyon,Astim,0 RH-,91.0,145.0,55,51-60,52,-25
+148,Male,Bursa,warfarin sodium,2022-01-12,2022-03-05,Yorgunluk,2022-02-17 11:54:49,Ispanak,Kemik Erimesi,Astim, ,Alzheimer,Kalp Hastaliklari,0 RH+,94.0,197.0,43,41-50,52,-16
+29,Male,Antalya,imipramine hcl,2022-01-07,2022-03-04,Gucsuzluk,2022-02-01 04:34:33,Kabak Cekirdegi,Diyabet,Alzheimer,Astim,Kanser,Guatr,A RH+,108.0,163.0,74,71-80,56,-31
+17,Male,Eskisehir,"zolpidem tablet, sublingual",2022-01-05,2022-03-05,Yorgunluk,2022-02-17 11:54:49,Kahve,Astim,Astim, ,Hipertansiyon,Astim,0 RH-,91.0,145.0,55,51-60,59,-16
+145,Male,Kayseri,alprazolam odt,2022-01-13,2022-03-06,Az Uyuma,2022-02-06 14:28:54,Toz,Kalp Hastaliklari,Hipertansiyon,KOAH,Astim,Hipertansiyon,B RH-,66.0,153.0,83,80+,52,-28
+13,Female,Canakkale,imipramine pamoate,2022-01-07,2022-03-19,Yorgunluk,2022-02-17 11:54:49,Kabak Cekirdegi,Kan Hastaliklari,Kemik Erimesi,KOAH,Alzheimer,Kemik Erimesi,AB RH+,56.0,189.0,65,61-70,71,-30
+141,Male,Ankara,fluvoxamine maleate,2022-01-01,2022-03-04,Mide Bulantisi,2022-02-05 06:50:13,Bugday,Guatr,Kanser,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,A RH-,94.0,197.0,21,19-30,62,-27
+63,Female,Samsun,Levomilnacipran,2022-01-07,2022-03-16,Terleme,2022-02-03 00:24:29,Ispanakgiller,Hipertansiyon,Kalp Hastaliklari, ,Astim,Guatr,0 RH+,74.0,184.0,72,71-80,68,-41
+104,Female,Istanbul,brexpiprazole,2022-01-10,2022-03-12,Yorgunluk,2022-02-14 03:19:06,Kahve,KOAH,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,Diyabet,A RH-,79.0,191.0,57,51-60,61,-26
+71,Male,Canakkale,Levomilnacipran,2022-01-05,2022-03-16,Gormede Bulaniklik,2022-02-16 22:10:35,Laktoz,Alzheimer,Kanser,Kalp Hastaliklari,Kanser,Guatr,B RH+,94.0,197.0,45,41-50,70,-28
+70,Female,Kayseri,mirtazapine,2022-01-02,2022-03-17,Gucsuzluk,2022-02-01 04:34:33,Havyar,Alzheimer,Guatr,Hipertansiyon,Kalp Hastaliklari,Alzheimer,B RH+,80.0,200.0,81,80+,74,-44
+111,Male,Adana,pregabalin,2022-01-09,2022-03-14,Sinirlilik,2022-02-08 01:01:21,Domates,Kemik Erimesi,Kemik Erimesi,Alzheimer,Kemik Erimesi,Astim,0 RH-,98.0,185.0,56,51-60,64,-34
+49,Female,Canakkale,clonazepam,2022-01-12,2022-03-16,Gucsuzluk,2022-02-01 04:34:33,Karaciger,Alzheimer,Astim,Diger,Alzheimer,Astim,AB RH-,96.0,155.0,69,61-70,63,-43
+113,Male,Trabzon,zaleplon,2022-01-05,2022-03-18,Az Uyuma,2022-02-19 11:09:36,Kahve,KOAH,Astim,Guatr,KOAH,Kan Hastaliklari,0 RH+,76.0,155.0,14,0-18,72,-27
+45,Female,Trabzon,betamethasone valerate ointment,2022-01-09,2022-03-12,Bulanti,2022-02-18 05:26:31,Domates,Alzheimer,Astim,Hipertansiyon,Kalp Hastaliklari,Astim,0 RH+,52.0,178.0,84,80+,62,-22
+187,Female,Bursa,fluocinolone acetonide cream,2022-01-11,2022-03-10,Karin Agrisi,2022-02-13 13:55:37,Kefir,Kanser,Guatr,Kan Hastaliklari,Kanser,Kan Hastaliklari,0 RH-,107.0,178.0,56,51-60,58,-25
+62,Male,Samsun,lamotrigine er,2022-01-03,2022-03-14,Yorgunluk,2022-02-03 20:48:17,Cikolata,Kemik Erimesi,Kanser,Kan Hastaliklari,Kanser,Diyabet,B RH-,88.0,182.0,23,19-30,70,-39
+183,Female,Samsun,"desvenlafaxine succinate tablet, extended release 24 hr",2022-01-06,2022-03-18,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Havyar,Kan Hastaliklari,Kanser,Hipertansiyon,Hipertansiyon,Astim,B RH-,92.0,153.0,14,0-18,71,-34
+63,Female,Samsun,prochlorperazine maleate,2022-01-04,2022-03-04,Mide Bulantisi,2022-02-05 06:50:13,Ispanakgiller,Hipertansiyon,Kalp Hastaliklari, ,Astim,Guatr,0 RH+,74.0,184.0,72,71-80,59,-27
+177,Male,Mersin,desonide ointment,2022-01-03,2022-03-17,Tansiyon Yukselme,2022-02-07 19:26:17,Kefir,Kemik Erimesi,Alzheimer,Kalp Hastaliklari,Diyabet,KOAH,AB RH-,107.0,165.0,31,31-40,73,-38
+111,Male,Adana,carbamazepine extended release,2022-01-09,2022-03-15,Gucsuzluk,2022-02-01 04:34:33,Domates,Kemik Erimesi,Kemik Erimesi,Alzheimer,Kemik Erimesi,Astim,0 RH-,98.0,185.0,56,51-60,65,-42
+183,Female,Samsun,ziprasidone vial,2022-01-14,2022-03-18,Az Uyuma,2022-02-06 14:28:54,Havyar,Kan Hastaliklari,Kanser,Hipertansiyon,Hipertansiyon,Astim,B RH-,92.0,153.0,14,0-18,63,-40
+59,Female,Malatya,lurasidone,2022-01-04,2022-03-14,Agizda Farkli Bir Tat,2022-02-04 08:08:31,Sut,Astim,Kan Hastaliklari,Kanser,Hipertansiyon,Astim,AB RH-,80.0,198.0,39,31-40,69,-38
+86,Male,Bursa,"asenapine tablet, sublingual",2022-01-01,2022-03-15,Ishal,2022-02-12 19:13:43,Kakao,Kalp Hastaliklari,Diyabet,Alzheimer,Kemik Erimesi,Kanser,A RH+,107.0,179.0,84,80+,73,-31
+107,Male,Canakkale,zaleplon,2022-01-07,2022-03-15,Huzursuzluk,2022-02-01 13:27:16,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,67,-42
+167,Female,Trabzon,"fluocinolone acetonide solution, non-",2022-01-06,2022-03-14,Carpinti,2022-02-04 05:29:20,Istiridye,Kalp Hastaliklari,Hipertansiyon,Kalp Hastaliklari,Kanser, ,A RH-,50.0,158.0,79,71-80,67,-38
+116,Male,Izmir,Levomilnacipran,2022-01-03,2022-03-06,Agizda Farkli Bir Tat,2022-02-04 08:08:31,Ispanakgiller,Diyabet,Alzheimer,Diyabet,Alzheimer,Kemik Erimesi,B RH-,57.0,189.0,40,31-40,62,-30
+15,Female,Ankara,alprazolam intensol,2022-01-13,2022-03-16,Tansiyon Yukselme,2022-02-08 07:55:59,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,62,-36
+114,Female,Trabzon,"methylphenidate hcl tablet, chewable",2022-01-06,2022-03-18,Karin Agrisi,2022-02-13 13:55:37,Ispanakgiller,KOAH,Kalp Hastaliklari,Kanser, ,Guatr,0 RH+,51.0,181.0,22,19-30,71,-33
+63,Female,Samsun,fluoxetine,2022-01-14,2022-03-16,Az Uyuma,2022-02-19 11:09:36,Ispanakgiller,Hipertansiyon,Kalp Hastaliklari, ,Astim,Guatr,0 RH+,74.0,184.0,72,71-80,61,-25
+4,Female,Bursa,amitriptyline hcl,2022-01-03,2022-03-18,Tansiyon Yukselme,2022-02-03 16:27:30,Balik,KOAH,Kemik Erimesi,Kemik Erimesi,Kan Hastaliklari,Hipertansiyon,AB RH-,53.0,176.0,29,19-30,74,-43
+47,Male,Trabzon,nefazodone hcl,2022-01-14,2022-03-04,Istah Artisi,2022-02-17 07:08:01,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,49,-15
+15,Female,Ankara,"methylphenidate er 100 mg capsule,delayed release,ext release sprinkle",2022-01-03,2022-03-16,Gucsuzluk,2022-02-01 04:34:33,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,72,-43
+2,Female,Canakkale,quetiapine,2022-01-10,2022-03-11,Gormede Bulaniklik,2022-02-09 01:16:50,Muz,Kalp Hastaliklari,Diyabet,Kemik Erimesi,Diyabet,Diger,B RH-,93.0,158.0,47,41-50,60,-30
+4,Female,Bursa,alprazolam er,2022-01-14,2022-03-09,Kas Agrisi,2022-02-11 08:22:07,Balik,KOAH,Kemik Erimesi,Kemik Erimesi,Kan Hastaliklari,Hipertansiyon,AB RH-,53.0,176.0,29,19-30,54,-26
+107,Male,Canakkale,fluocinolone acetonide cream,2022-01-10,2022-03-14,Az Uyuma,2022-02-19 11:09:36,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,63,-23
+172,Male,Mersin,valproic acid,2022-01-12,2022-03-10,Yorgunluk,2022-02-17 11:54:49,Havyar,Kalp Hastaliklari,Hipertansiyon,Diyabet, ,Kanser,A RH+,108.0,192.0,15,0-18,57,-21
+71,Male,Canakkale,isocarboxazid tablet,2022-01-09,2022-03-14,Gormede Bulaniklik,2022-02-09 01:16:50,Laktoz,Alzheimer,Kanser,Kalp Hastaliklari,Kanser,Guatr,B RH+,94.0,197.0,45,41-50,64,-33
+106,Female,Trabzon,midazolam,2022-01-10,2022-03-04,Tansiyon Yukselme,2022-02-08 07:55:59,Kefir,Hipertansiyon,KOAH,KOAH,Kemik Erimesi,Diyabet,0 RH-,108.0,147.0,70,61-70,53,-24
+136,Female,Izmir,mirtazapine,2022-01-01,2022-03-14,Huzursuzluk,2022-02-01 13:27:16,Deniz Urunler,Diyabet,Hipertansiyon,Kalp Hastaliklari,Kanser,Guatr,0 RH-,95.0,169.0,66,61-70,72,-41
+47,Male,Trabzon,clindamycin phosphate - benzoyl peroxide,2022-01-01,2022-03-15,Ishal,2022-02-19 21:47:39,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,73,-24
+161,Female,Istanbul,iloperidone,2022-01-07,2022-03-11,Kabizlik,2022-02-19 18:28:43,Pancar,Kalp Hastaliklari,KOAH,Astim,Diyabet,Kalp Hastaliklari,B RH-,80.0,158.0,70,61-70,63,-20
+156,Female,Antalya,protriptyline hcl,2022-01-03,2022-03-17,Gec Bosalma,2022-02-14 07:26:11,Karaciger,Kemik Erimesi,Guatr,Kemik Erimesi,Diyabet,Kalp Hastaliklari,AB RH-,80.0,171.0,17,0-18,73,-31
+116,Male,Izmir,valproic acid solution,2022-01-02,2022-03-17,Terleme,2022-02-03 00:24:29,Ispanakgiller,Diyabet,Alzheimer,Diyabet,Alzheimer,Kemik Erimesi,B RH-,57.0,189.0,40,31-40,74,-42
+172,Male,Mersin,paliperidone er,2022-01-08,2022-03-13,Yorgunluk,2022-02-03 20:48:17,Havyar,Kalp Hastaliklari,Hipertansiyon,Diyabet, ,Kanser,A RH+,108.0,192.0,15,0-18,64,-38
+190,Male,Ankara,hydroxyzine hcl,2022-01-10,2022-03-18,Bas Agrisi,2022-02-19 04:14:26,Kahve,Kan Hastaliklari,Kan Hastaliklari,Kemik Erimesi,Astim,Diyabet,0 RH+,70.0,169.0,30,19-30,67,-27
+113,Male,Trabzon,desonide foam,2022-01-02,2022-03-13,Gucsuzluk,2022-02-01 04:34:33,Kahve,KOAH,Astim,Guatr,KOAH,Kan Hastaliklari,0 RH+,76.0,155.0,14,0-18,70,-40
+15,Female,Ankara,clomipramine hcl,2022-01-12,2022-03-02,Ishal,2022-02-12 19:13:43,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,49,-18
+156,Female,Antalya,pregabalin,2022-01-01,2022-03-10,Sinirlilik,2022-02-08 01:01:21,Karaciger,Kemik Erimesi,Guatr,Kemik Erimesi,Diyabet,Kalp Hastaliklari,AB RH-,80.0,171.0,17,0-18,68,-30
+12,Female,Kayseri,methylphenidate hcl solution,2022-01-09,2022-03-17,Bas Agrisi,2022-02-19 04:14:26,Domates,KOAH,Astim,Astim,Guatr,Diger,0 RH+,53.0,175.0,79,71-80,67,-26
+47,Male,Trabzon,lorazepam vial,2022-01-09,2022-03-17,Tansiyon Dusuklugu,2022-02-14 03:35:01,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,67,-31
+172,Male,Mersin,chlordiazepoxide-amitriptyline,2022-01-06,2022-03-08,Tansiyon Yukselme,2022-02-07 19:26:17,Havyar,Kalp Hastaliklari,Hipertansiyon,Diyabet, ,Kanser,A RH+,108.0,192.0,15,0-18,61,-29
+4,Female,Bursa,prazosin,2022-01-05,2022-03-09,Gormede Bulaniklik,2022-02-09 01:16:50,Balik,KOAH,Kemik Erimesi,Kemik Erimesi,Kan Hastaliklari,Hipertansiyon,AB RH-,53.0,176.0,29,19-30,63,-28
+13,Female,Canakkale,"desvenlafaxine succinate tablet, extended release 24 hr",2022-01-14,2022-03-16,Gormede Bulaniklik,2022-02-09 01:16:50,Kabak Cekirdegi,Kan Hastaliklari,Kemik Erimesi,KOAH,Alzheimer,Kemik Erimesi,AB RH+,56.0,189.0,65,61-70,61,-35
+107,Male,Canakkale,isocarboxazid tablet,2022-01-03,2022-03-08,Gormede Bulaniklik,2022-02-16 22:10:35,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,64,-20
+107,Male,Canakkale,"methylphenidate er tablet, extended release 24 hr",2022-01-06,2022-03-08,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,61,-24
+12,Female,Kayseri,betamethasone valerate foam,2022-01-02,2022-03-16,Bulanti,2022-02-18 05:26:31,Domates,KOAH,Astim,Astim,Guatr,Diger,0 RH+,53.0,175.0,79,71-80,73,-26
+29,Male,Antalya,"divalproex sodium capsule, sprinkle",2022-01-09,2022-03-02,Gucsuzluk,2022-02-01 04:34:33,Kabak Cekirdegi,Diyabet,Alzheimer,Astim,Kanser,Guatr,A RH+,108.0,163.0,74,71-80,52,-29
+47,Male,Trabzon,duloxetine hydrochloride,2022-01-09,2022-03-11,Terleme,2022-02-03 00:24:29,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,61,-36
+104,Female,Istanbul,lurasidone,2022-01-01,2022-03-13,Kabizlik,2022-02-02 06:09:22,Kahve,KOAH,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,Diyabet,A RH-,79.0,191.0,57,51-60,71,-39
+54,Male,Trabzon,vilazodone,2022-01-06,2022-03-18,Ishal,2022-02-19 21:47:39,Kefir,KOAH,Astim,Alzheimer,Kemik Erimesi,Kemik Erimesi,AB RH+,97.0,176.0,51,51-60,71,-27
+129,Male,Eskisehir,butisol sodium,2022-01-09,2022-03-11,Bulanti,2022-02-18 05:26:31,Muz,Astim,Kalp Hastaliklari,Kanser,Alzheimer,Diyabet,AB RH+,54.0,146.0,73,71-80,61,-21
+152,Female,Canakkale,aripipirazol,2022-01-09,2022-03-14,Uykululuk Hali,2022-02-02 23:10:47,Laktoz,Kemik Erimesi,Alzheimer,Hipertansiyon,Diyabet,Kanser,AB RH-,64.0,153.0,38,31-40,64,-40
+71,Male,Canakkale,quetiapine er,2022-01-01,2022-03-06,Terleme,2022-02-03 00:24:29,Laktoz,Alzheimer,Kanser,Kalp Hastaliklari,Kanser,Guatr,B RH+,94.0,197.0,45,41-50,64,-31
+2,Female,Canakkale,desonide foam,2022-01-13,2022-03-06,Sinirlilik,2022-02-08 01:01:21,Muz,Kalp Hastaliklari,Diyabet,Kemik Erimesi,Diyabet,Diger,B RH-,93.0,158.0,47,41-50,52,-26
+114,Female,Trabzon,diazepam,2022-01-07,2022-03-19,Kabizlik,2022-02-19 18:28:43,Ispanakgiller,KOAH,Kalp Hastaliklari,Kanser, ,Guatr,0 RH+,51.0,181.0,22,19-30,71,-28
+147,Male,Malatya,fluoxetine,2022-01-14,2022-03-16,Az Uyuma,2022-02-06 14:28:54,Ispanak,Diyabet,Hipertansiyon,Kanser,Kemik Erimesi,KOAH,0 RH+,69.0,203.0,81,80+,61,-38
+15,Female,Ankara,chlordiazepoxide-amitriptyline,2022-01-13,2022-03-16,Gormede Bulaniklik,2022-02-09 01:16:50,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,62,-35
+145,Male,Kayseri,Levomilnacipran,2022-01-09,2022-03-13,Sinirlilik,2022-02-08 01:01:21,Toz,Kalp Hastaliklari,Hipertansiyon,KOAH,Astim,Hipertansiyon,B RH-,66.0,153.0,83,80+,63,-33
+15,Female,Ankara,Prednicarbate cream,2022-01-13,2022-03-05,Ishal,2022-02-19 21:47:39,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,51,-14
+196,Female,Canakkale,doxepin hcl cream,2022-01-08,2022-03-08,Kabizlik,2022-02-19 18:28:43,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,59,-17
+89,Female,Malatya,venlafaxine,2022-01-01,2022-03-08,Huzursuzluk,2022-02-01 13:27:16,Ispanakgiller,Hipertansiyon,Kanser,Kanser,Alzheimer,Guatr,0 RH+,71.0,184.0,39,31-40,66,-35
+177,Male,Mersin,zaleplon,2022-01-09,2022-03-02,Yorgunluk,2022-02-03 20:48:17,Kefir,Kemik Erimesi,Alzheimer,Kalp Hastaliklari,Diyabet,KOAH,AB RH-,107.0,165.0,31,31-40,52,-27
+111,Male,Adana,lurasidone,2022-01-08,2022-03-11,Tansiyon Yukselme,2022-02-03 16:27:30,Domates,Kemik Erimesi,Kemik Erimesi,Alzheimer,Kemik Erimesi,Astim,0 RH-,98.0,185.0,56,51-60,62,-36
+187,Female,Bursa,desonide foam,2022-01-05,2022-03-07,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Kefir,Kanser,Guatr,Kan Hastaliklari,Kanser,Kan Hastaliklari,0 RH-,107.0,178.0,56,51-60,61,-23
+111,Male,Adana,paroxetine,2022-01-08,2022-03-12,Mide Bulantisi,2022-02-05 06:50:13,Domates,Kemik Erimesi,Kemik Erimesi,Alzheimer,Kemik Erimesi,Astim,0 RH-,98.0,185.0,56,51-60,63,-35
+187,Female,Bursa,fluphenazine hcl tablet,2022-01-01,2022-03-17,Carpinti,2022-02-04 05:29:20,Kefir,Kanser,Guatr,Kan Hastaliklari,Kanser,Kan Hastaliklari,0 RH-,107.0,178.0,56,51-60,75,-41
+116,Male,Izmir,pimozide,2022-01-06,2022-03-03,Tansiyon Dusuklugu,2022-02-14 03:35:01,Ispanakgiller,Diyabet,Alzheimer,Diyabet,Alzheimer,Kemik Erimesi,B RH-,57.0,189.0,40,31-40,56,-17
+49,Female,Canakkale,hydrocortisone cream,2022-01-13,2022-03-08,Mide Bulantisi,2022-02-05 06:50:13,Karaciger,Alzheimer,Astim,Diger,Alzheimer,Astim,AB RH-,96.0,155.0,69,61-70,54,-31
+70,Female,Kayseri,olanzapine vial,2022-01-04,2022-03-16,Tansiyon Yukselme,2022-02-07 19:26:17,Havyar,Alzheimer,Guatr,Hipertansiyon,Kalp Hastaliklari,Alzheimer,B RH+,80.0,200.0,81,80+,71,-37
+147,Male,Malatya,venlafaxine,2022-01-02,2022-03-02,Bulanti,2022-02-18 05:26:31,Ispanak,Diyabet,Hipertansiyon,Kanser,Kemik Erimesi,KOAH,0 RH+,69.0,203.0,81,80+,59,-12
+145,Male,Kayseri,venlafaxine,2022-01-12,2022-03-07,Gormede Bulaniklik,2022-02-16 22:10:35,Toz,Kalp Hastaliklari,Hipertansiyon,KOAH,Astim,Hipertansiyon,B RH-,66.0,153.0,83,80+,54,-19
+45,Female,Trabzon,fluphenazine hcl tablet,2022-01-03,2022-03-11,Istah Artisi,2022-02-17 07:08:01,Domates,Alzheimer,Astim,Hipertansiyon,Kalp Hastaliklari,Astim,0 RH+,52.0,178.0,84,80+,67,-22
+4,Female,Bursa,risperdal consta syringe,2022-01-14,2022-03-18,Huzursuzluk,2022-02-01 13:27:16,Balik,KOAH,Kemik Erimesi,Kemik Erimesi,Kan Hastaliklari,Hipertansiyon,AB RH-,53.0,176.0,29,19-30,63,-45
+13,Female,Canakkale,pimozide,2022-01-12,2022-03-12,Karin Agrisi,2022-02-13 13:55:37,Kabak Cekirdegi,Kan Hastaliklari,Kemik Erimesi,KOAH,Alzheimer,Kemik Erimesi,AB RH+,56.0,189.0,65,61-70,59,-27
+136,Female,Izmir,"clonazepam tablet, disintegratingclozapine",2022-01-08,2022-03-09,Karin Agrisi,2022-02-13 13:55:37,Deniz Urunler,Diyabet,Hipertansiyon,Kalp Hastaliklari,Kanser,Guatr,0 RH-,95.0,169.0,66,61-70,60,-24
+104,Female,Istanbul,risperidone odt,2022-01-05,2022-03-09,Mide Bulantisi,2022-02-05 06:50:13,Kahve,KOAH,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,Diyabet,A RH-,79.0,191.0,57,51-60,63,-32
+114,Female,Trabzon,Levomilnacipran,2022-01-07,2022-03-11,Tansiyon Dusuklugu,2022-02-14 03:35:01,Ispanakgiller,KOAH,Kalp Hastaliklari,Kanser, ,Guatr,0 RH+,51.0,181.0,22,19-30,63,-25
+167,Female,Trabzon,"methylphenidate hcl tablet, chewable",2022-01-04,2022-03-09,Karin Agrisi,2022-02-13 13:55:37,Istiridye,Kalp Hastaliklari,Hipertansiyon,Kalp Hastaliklari,Kanser, ,A RH-,50.0,158.0,79,71-80,64,-24
+196,Female,Canakkale,duloxetine hydrochloride,2022-01-14,2022-03-15,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,60,-24
+152,Female,Canakkale,lurasidone,2022-01-11,2022-03-06,Gormede Bulaniklik,2022-02-16 22:10:35,Laktoz,Kemik Erimesi,Alzheimer,Hipertansiyon,Diyabet,Kanser,AB RH-,64.0,153.0,38,31-40,54,-18
+161,Female,Istanbul,chlordiazepoxide hcl,2022-01-03,2022-03-07,Istah Artisi,2022-02-17 07:08:01,Pancar,Kalp Hastaliklari,KOAH,Astim,Diyabet,Kalp Hastaliklari,B RH-,80.0,158.0,70,61-70,63,-18
+107,Male,Canakkale,paliperidone er,2022-01-12,2022-03-07,Tansiyon Yukselme,2022-02-08 07:55:59,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,54,-27
+71,Male,Canakkale,loxapine,2022-01-08,2022-03-04,Gucsuzluk,2022-02-01 04:34:33,Laktoz,Alzheimer,Kanser,Kalp Hastaliklari,Kanser,Guatr,B RH+,94.0,197.0,45,41-50,55,-31
+49,Female,Canakkale,desoximetasone ointment,2022-01-05,2022-03-19,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Karaciger,Alzheimer,Astim,Diger,Alzheimer,Astim,AB RH-,96.0,155.0,69,61-70,73,-28
+70,Female,Kayseri,oxymorphone,2022-01-02,2022-03-12,Bas Agrisi,2022-02-19 04:14:26,Havyar,Alzheimer,Guatr,Hipertansiyon,Kalp Hastaliklari,Alzheimer,B RH+,80.0,200.0,81,80+,69,-21
+2,Female,Canakkale,desonide foam,2022-01-14,2022-03-12,Tansiyon Yukselme,2022-02-07 19:26:17,Muz,Kalp Hastaliklari,Diyabet,Kemik Erimesi,Diyabet,Diger,B RH-,93.0,158.0,47,41-50,57,-33
+89,Female,Malatya,isocarboxazid tablet,2022-01-06,2022-03-03,Kabizlik,2022-02-02 06:09:22,Ispanakgiller,Hipertansiyon,Kanser,Kanser,Alzheimer,Guatr,0 RH+,71.0,184.0,39,31-40,56,-29
+109,Female,Ankara,"divalproex sodium capsule, sprinkle",2022-01-09,2022-03-12,Kabizlik,2022-02-02 06:09:22,Kolali Icecek,Kalp Hastaliklari,Kanser,Kalp Hastaliklari,Astim,Diyabet,A RH-,62.0,158.0,18,0-18,62,-38
+92,Female,Bursa,"desvenlafaxine succinate tablet, extended release 24 hr",2022-01-03,2022-03-13,Tansiyon Dusuklugu,2022-02-14 03:35:01,Deniz Urunler,Hipertansiyon,Hipertansiyon,Guatr,Alzheimer,Kanser,AB RH-,81.0,168.0,51,51-60,69,-27
+66,Female,Istanbul,amoksapin,2022-01-09,2022-03-19,Yorgunluk,2022-02-14 03:19:06,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,69,-33
+109,Female,Ankara,"methylphenidate er tablet, extended release 24 hr",2022-01-05,2022-03-19,Yorgunluk,2022-02-03 20:48:17,Kolali Icecek,Kalp Hastaliklari,Kanser,Kalp Hastaliklari,Astim,Diyabet,A RH-,62.0,158.0,18,0-18,73,-44
+63,Female,Samsun,lorazepam concentrate,2022-01-08,2022-03-05,Ishal,2022-02-19 21:47:39,Ispanakgiller,Hipertansiyon,Kalp Hastaliklari, ,Astim,Guatr,0 RH+,74.0,184.0,72,71-80,56,-14
+15,Female,Ankara,midazolam,2022-01-14,2022-03-19,Uykululuk Hali,2022-02-02 23:10:47,Kopek,Alzheimer,Astim,Astim,KOAH,KOAH,B RH+,69.0,188.0,64,61-70,64,-45
+17,Male,Eskisehir,duloxetine hcl,2022-01-01,2022-03-10,Yorgunluk,2022-02-14 03:19:06,Kahve,Astim,Astim, ,Hipertansiyon,Astim,0 RH-,91.0,145.0,55,51-60,68,-24
+13,Female,Canakkale,isocarboxazid tablet,2022-01-10,2022-03-14,Yorgunluk,2022-02-14 03:19:06,Kabak Cekirdegi,Kan Hastaliklari,Kemik Erimesi,KOAH,Alzheimer,Kemik Erimesi,AB RH+,56.0,189.0,65,61-70,63,-28
+113,Male,Trabzon,oxymorphone,2022-01-11,2022-03-10,Tansiyon Dusuklugu,2022-02-14 03:35:01,Kahve,KOAH,Astim,Guatr,KOAH,Kan Hastaliklari,0 RH+,76.0,155.0,14,0-18,58,-24
+54,Male,Trabzon,lithium carbonate,2022-01-03,2022-03-10,Agizda Farkli Bir Tat,2022-02-04 08:08:31,Kefir,KOAH,Astim,Alzheimer,Kemik Erimesi,Kemik Erimesi,AB RH+,97.0,176.0,51,51-60,66,-34
+70,Female,Kayseri,divalproex sodium er,2022-01-04,2022-03-13,Gormede Bulaniklik,2022-02-09 01:16:50,Havyar,Alzheimer,Guatr,Hipertansiyon,Kalp Hastaliklari,Alzheimer,B RH+,80.0,200.0,81,80+,68,-32
+126,Female,Ankara,doxepin hcl tablet,2022-01-01,2022-03-19,Sinirlilik,2022-02-08 01:01:21,Domates,Guatr,Kemik Erimesi,Alzheimer,Alzheimer,Kalp Hastaliklari,B RH-,55.0,176.0,32,31-40,77,-39
+167,Female,Trabzon,cariprazine,2022-01-07,2022-03-06,Agizda Farkli Bir Tat,2022-02-04 08:08:31,Istiridye,Kalp Hastaliklari,Hipertansiyon,Kalp Hastaliklari,Kanser, ,A RH-,50.0,158.0,79,71-80,58,-30
+59,Female,Malatya,vortioxetine,2022-01-08,2022-03-18,Az Uyuma,2022-02-19 11:09:36,Sut,Astim,Kan Hastaliklari,Kanser,Hipertansiyon,Astim,AB RH-,80.0,198.0,39,31-40,69,-27
+63,Female,Samsun,amoksapin,2022-01-11,2022-03-13,Gormede Bulaniklik,2022-02-16 22:10:35,Ispanakgiller,Hipertansiyon,Kalp Hastaliklari, ,Astim,Guatr,0 RH+,74.0,184.0,72,71-80,61,-25
+17,Male,Eskisehir,lorazepam,2022-01-01,2022-03-04,Agizda Farkli Bir Tat,2022-02-04 08:08:31,Kahve,Astim,Astim, ,Hipertansiyon,Astim,0 RH-,91.0,145.0,55,51-60,62,-28
+126,Female,Ankara,oxymorphone,2022-01-13,2022-03-17,Deride Morarma,2022-02-09 20:53:54,Domates,Guatr,Kemik Erimesi,Alzheimer,Alzheimer,Kalp Hastaliklari,B RH-,55.0,176.0,32,31-40,63,-36
+113,Male,Trabzon,desvenlafaxine er,2022-01-13,2022-03-05,Az Uyuma,2022-02-19 11:09:36,Kahve,KOAH,Astim,Guatr,KOAH,Kan Hastaliklari,0 RH+,76.0,155.0,14,0-18,51,-14
+13,Female,Canakkale,betamethasone valerate foam,2022-01-04,2022-03-07,Yorgunluk,2022-02-14 03:19:06,Kabak Cekirdegi,Kan Hastaliklari,Kemik Erimesi,KOAH,Alzheimer,Kemik Erimesi,AB RH+,56.0,189.0,65,61-70,62,-21
+63,Female,Samsun,venlafaxine,2022-01-14,2022-03-06,Gucsuzluk,2022-02-01 04:34:33,Ispanakgiller,Hipertansiyon,Kalp Hastaliklari, ,Astim,Guatr,0 RH+,74.0,184.0,72,71-80,51,-33
+109,Female,Ankara,desvenlafaxine er,2022-01-12,2022-03-14,Bulanti,2022-02-18 05:26:31,Kolali Icecek,Kalp Hastaliklari,Kanser,Kalp Hastaliklari,Astim,Diyabet,A RH-,62.0,158.0,18,0-18,61,-24
+147,Male,Malatya,"methylphenidate er 100 mg capsule,delayed release,ext release sprinkle",2022-01-03,2022-03-11,Tansiyon Yukselme,2022-02-08 07:55:59,Ispanak,Diyabet,Hipertansiyon,Kanser,Kemik Erimesi,KOAH,0 RH+,69.0,203.0,81,80+,67,-31
+107,Male,Canakkale,carbamazepine cr,2022-01-01,2022-03-08,Mide Bulantisi,2022-02-05 06:50:13,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,66,-31
+145,Male,Kayseri,imipramine pamoate,2022-01-06,2022-03-06,Mide Bulantisi,2022-02-05 06:50:13,Toz,Kalp Hastaliklari,Hipertansiyon,KOAH,Astim,Hipertansiyon,B RH-,66.0,153.0,83,80+,59,-29
+161,Female,Istanbul,quetiapine,2022-01-09,2022-03-08,Uykululuk Hali,2022-02-02 23:10:47,Pancar,Kalp Hastaliklari,KOAH,Astim,Diyabet,Kalp Hastaliklari,B RH-,80.0,158.0,70,61-70,58,-34
+2,Female,Canakkale,valproic acid solution,2022-01-08,2022-03-16,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Muz,Kalp Hastaliklari,Diyabet,Kemik Erimesi,Diyabet,Diger,B RH-,93.0,158.0,47,41-50,67,-25
+196,Female,Canakkale,paliperidone,2022-01-07,2022-03-19,Bas Agrisi,2022-02-19 04:14:26,Sut,Kanser,Kemik Erimesi, ,Kemik Erimesi,Kanser,B RH-,108.0,179.0,65,61-70,71,-28
+104,Female,Istanbul,paliperidone er,2022-01-06,2022-03-07,Yorgunluk,2022-02-14 03:19:06,Kahve,KOAH,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,Diyabet,A RH-,79.0,191.0,57,51-60,60,-21
+114,Female,Trabzon,trazodone,2022-01-09,2022-03-02,Yorgunluk,2022-02-17 11:54:49,Ispanakgiller,KOAH,Kalp Hastaliklari,Kanser, ,Guatr,0 RH+,51.0,181.0,22,19-30,52,-13
+156,Female,Antalya,hydroxyzine,2022-01-07,2022-03-06,Deride Morarma,2022-02-09 20:53:54,Karaciger,Kemik Erimesi,Guatr,Kemik Erimesi,Diyabet,Kalp Hastaliklari,AB RH-,80.0,171.0,17,0-18,58,-25
+183,Female,Samsun,lorazepam vial,2022-01-06,2022-03-14,Deride Morarma,2022-02-09 20:53:54,Havyar,Kan Hastaliklari,Kanser,Hipertansiyon,Hipertansiyon,Astim,B RH-,92.0,153.0,14,0-18,67,-33
+133,Female,Canakkale,protriptyline hcl,2022-01-03,2022-03-07,Istah Artisi,2022-02-17 07:08:01,Elma,Kan Hastaliklari,Kanser,KOAH,Kemik Erimesi,Hipertansiyon,0 RH+,88.0,181.0,53,51-60,63,-18
+47,Male,Trabzon,"methylphenidate hcl tablet, chewable",2022-01-14,2022-03-05,Ishal,2022-02-12 19:13:43,Balik,Diyabet,Kan Hastaliklari,Kanser,Kan Hastaliklari,Alzheimer,AB RH-,108.0,166.0,13,0-18,50,-21
+44,Male,Adana,"desvenlafaxine succinate tablet, extended release 24 hr",2022-01-02,2022-03-19,Uykululuk Hali,2022-02-02 23:10:47,Domates,Kemik Erimesi,Hipertansiyon,Kan Hastaliklari,Kalp Hastaliklari,Kanser,A RH-,82.0,187.0,26,19-30,76,-45
+183,Female,Samsun,pethidine hcl,2022-01-11,2022-03-12,Gormede Bulaniklik,2022-02-09 01:16:50,Havyar,Kan Hastaliklari,Kanser,Hipertansiyon,Hipertansiyon,Astim,B RH-,92.0,153.0,14,0-18,60,-31
+104,Female,Istanbul,hydroxyzine,2022-01-03,2022-03-14,Gormede Bulaniklik,2022-02-09 01:16:50,Kahve,KOAH,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,Diyabet,A RH-,79.0,191.0,57,51-60,70,-33
+148,Male,Bursa,warfarin sodium,2022-01-07,2022-03-07,Deride Morarma,2022-02-09 20:53:54,Ispanak,Kemik Erimesi,Astim, ,Alzheimer,Kalp Hastaliklari,0 RH+,94.0,197.0,43,41-50,59,-26
+136,Female,Izmir,fluocinolone acetonide oil,2022-01-07,2022-03-16,Tansiyon Dusuklugu,2022-02-14 03:35:01,Deniz Urunler,Diyabet,Hipertansiyon,Kalp Hastaliklari,Kanser,Guatr,0 RH-,95.0,169.0,66,61-70,68,-30
+116,Male,Izmir,risperidone odt,2022-01-03,2022-03-08,Terleme,2022-02-03 00:24:29,Ispanakgiller,Diyabet,Alzheimer,Diyabet,Alzheimer,Kemik Erimesi,B RH-,57.0,189.0,40,31-40,64,-33
+106,Female,Trabzon,lamotrigine er,2022-01-10,2022-03-14,Uykululuk Hali,2022-02-02 23:10:47,Kefir,Hipertansiyon,KOAH,KOAH,Kemik Erimesi,Diyabet,0 RH-,108.0,147.0,70,61-70,63,-40
+190,Male,Ankara,Prednicarbate cream,2022-01-05,2022-03-04,Bas Agrisi,2022-02-19 04:14:26,Kahve,Kan Hastaliklari,Kan Hastaliklari,Kemik Erimesi,Astim,Diyabet,0 RH+,70.0,169.0,30,19-30,58,-13
+89,Female,Malatya,betamethasone dipropionate cream,2022-01-09,2022-03-17,Kabizlik,2022-02-19 18:28:43,Ispanakgiller,Hipertansiyon,Kanser,Kanser,Alzheimer,Guatr,0 RH+,71.0,184.0,39,31-40,67,-26
+104,Female,Istanbul,methylphenidate er,2022-01-07,2022-03-13,Az Uyuma,2022-02-06 14:28:54,Kahve,KOAH,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,Diyabet,A RH-,79.0,191.0,57,51-60,65,-35
+92,Female,Bursa,betamethasone valerate ointment,2022-01-09,2022-03-17,Tansiyon Yukselme,2022-02-08 07:55:59,Deniz Urunler,Hipertansiyon,Hipertansiyon,Guatr,Alzheimer,Kanser,AB RH-,81.0,168.0,51,51-60,67,-37
+156,Female,Antalya,alprazolam er,2022-01-05,2022-03-18,Az Uyuma,2022-02-06 14:28:54,Karaciger,Kemik Erimesi,Guatr,Kemik Erimesi,Diyabet,Kalp Hastaliklari,AB RH-,80.0,171.0,17,0-18,72,-40
+66,Female,Istanbul,divalproex sodium er,2022-01-09,2022-03-09,Tansiyon Yukselme,2022-02-08 07:55:59,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,59,-29
+145,Male,Kayseri,chlorpromazine hcl,2022-01-08,2022-03-12,Yorgunluk,2022-02-17 11:54:49,Toz,Kalp Hastaliklari,Hipertansiyon,KOAH,Astim,Hipertansiyon,B RH-,66.0,153.0,83,80+,63,-23
+183,Female,Samsun,alprazolam intensol,2022-01-09,2022-03-14,Tansiyon Dusuklugu,2022-02-14 03:35:01,Havyar,Kan Hastaliklari,Kanser,Hipertansiyon,Hipertansiyon,Astim,B RH-,92.0,153.0,14,0-18,64,-28
+107,Male,Canakkale,"bupropion hbr tablet, extended release 24 hr",2022-01-09,2022-03-11,Agizda Farkli Bir Tat,2022-02-19 17:39:48,Ceviz,Hipertansiyon,Guatr,KOAH,Kemik Erimesi,Kemik Erimesi,B RH-,103.0,191.0,64,61-70,61,-20
+12,Female,Kayseri,triamcinolone cream,2022-01-02,2022-03-02,Mide Bulantisi,2022-02-05 06:50:13,Domates,KOAH,Astim,Astim,Guatr,Diger,0 RH+,53.0,175.0,79,71-80,59,-25
+62,Male,Samsun,clindamycin phosphate - benzoyl peroxide,2022-01-01,2022-03-05,Kabizlik,2022-02-19 18:28:43,Cikolata,Kemik Erimesi,Kanser,Kan Hastaliklari,Kanser,Diyabet,B RH-,88.0,182.0,23,19-30,63,-14
+54,Male,Trabzon,trimipramine,2022-01-03,2022-03-08,Huzursuzluk,2022-02-01 13:27:16,Kefir,KOAH,Astim,Alzheimer,Kemik Erimesi,Kemik Erimesi,AB RH+,97.0,176.0,51,51-60,64,-35
+109,Female,Ankara,doxepin hcl tablet,2022-01-12,2022-03-09,Karin Agrisi,2022-02-13 13:55:37,Kolali Icecek,Kalp Hastaliklari,Kanser,Kalp Hastaliklari,Astim,Diyabet,A RH-,62.0,158.0,18,0-18,56,-24
+89,Female,Malatya,prochlorperazine maleate,2022-01-10,2022-03-17,Ishal,2022-02-12 19:13:43,Ispanakgiller,Hipertansiyon,Kanser,Kanser,Alzheimer,Guatr,0 RH+,71.0,184.0,39,31-40,66,-33
+89,Female,Malatya,trazodone,2022-01-05,2022-03-10,Az Uyuma,2022-02-19 11:09:36,Ispanakgiller,Hipertansiyon,Kanser,Kanser,Alzheimer,Guatr,0 RH+,71.0,184.0,39,31-40,64,-19
+114,Female,Trabzon,"methylphenidate hcl tablet, chewable",2022-01-05,2022-03-14,Tansiyon Yukselme,2022-02-03 16:27:30,Ispanakgiller,KOAH,Kalp Hastaliklari,Kanser, ,Guatr,0 RH+,51.0,181.0,22,19-30,68,-39
+111,Male,Adana,trifluoperazine,2022-01-01,2022-03-18,Kabizlik,2022-02-19 18:28:43,Domates,Kemik Erimesi,Kemik Erimesi,Alzheimer,Kemik Erimesi,Astim,0 RH-,98.0,185.0,56,51-60,76,-27
+172,Male,Mersin,desonide lotion,2022-01-12,2022-03-13,Tansiyon Yukselme,2022-02-03 16:27:30,Havyar,Kalp Hastaliklari,Hipertansiyon,Diyabet, ,Kanser,A RH+,108.0,192.0,15,0-18,60,-38
+66,Female,Istanbul,tranylcypromine,2022-01-13,2022-03-06,Ishal,2022-02-19 21:47:39,Deniz Urunler,Kan Hastaliklari,Guatr,Hipertansiyon,Diger,Kalp Hastaliklari,0 RH-,110.0,156.0,33,31-40,52,-15
+104,Female,Istanbul,fluoxetine dr,2022-01-09,2022-03-09,Az Uyuma,2022-02-06 14:28:54,Kahve,KOAH,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,Diyabet,A RH-,79.0,191.0,57,51-60,59,-31
+63,Female,Samsun,mometasone furoate ointment,2022-01-06,2022-03-12,Yorgunluk,2022-02-03 20:48:17,Ispanakgiller,Hipertansiyon,Kalp Hastaliklari, ,Astim,Guatr,0 RH+,74.0,184.0,72,71-80,65,-37
+86,Male,Bursa,olanzapine-fluoxetine,2022-01-11,2022-03-07,Terleme,2022-02-03 00:24:29,Kakao,Kalp Hastaliklari,Diyabet,Alzheimer,Kemik Erimesi,Kanser,A RH+,107.0,179.0,84,80+,55,-32
+114,Female,Trabzon,doxepin hcl tablet,2022-01-01,2022-03-05,Karin Agrisi,2022-02-13 13:55:37,Ispanakgiller,KOAH,Kalp Hastaliklari,Kanser, ,Guatr,0 RH+,51.0,181.0,22,19-30,63,-20
+190,Male,Ankara,divalproeks sodyum,2022-01-14,2022-03-19,Agizda Farkli Bir Tat,2022-02-12 05:33:06,Kahve,Kan Hastaliklari,Kan Hastaliklari,Kemik Erimesi,Astim,Diyabet,0 RH+,70.0,169.0,30,19-30,64,-35
+126,Female,Ankara,carbamazepine,2022-01-02,2022-03-14,Bas Agrisi,2022-02-19 04:14:26,Domates,Guatr,Kemik Erimesi,Alzheimer,Alzheimer,Kalp Hastaliklari,B RH-,55.0,176.0,32,31-40,71,-23
+113,Male,Trabzon,pregabalin,2022-01-11,2022-03-14,Tansiyon Dusuklugu,2022-02-14 03:35:01,Kahve,KOAH,Astim,Guatr,KOAH,Kan Hastaliklari,0 RH+,76.0,155.0,14,0-18,62,-28
+62,Male,Samsun,Prednicarbate cream,2022-01-09,2022-03-07,Ishal,2022-02-19 21:47:39,Cikolata,Kemik Erimesi,Kanser,Kan Hastaliklari,Kanser,Diyabet,B RH-,88.0,182.0,23,19-30,57,-16
+148,Male,Bursa,iloperidone,2022-01-01,2022-03-16,Yorgunluk,2022-02-03 20:48:17,Ispanak,Kemik Erimesi,Astim, ,Alzheimer,Kalp Hastaliklari,0 RH+,94.0,197.0,43,41-50,74,-41
+104,Female,Istanbul,vortioxetine,2022-01-02,2022-03-07,Ishal,2022-02-12 19:13:43,Kahve,KOAH,Kalp Hastaliklari,Kalp Hastaliklari,Kalp Hastaliklari,Diyabet,A RH-,79.0,191.0,57,51-60,64,-23
