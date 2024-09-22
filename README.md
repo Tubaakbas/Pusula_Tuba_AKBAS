@@ -4,8 +4,6 @@
 
 - İlaçların Yan Etkisi
 
-## Proje Açıklaması:
-
 ## Veri Seti Hakkında:
 
 - side_effect_data isimli veri seti 2357 satır ve 19 kolondan oluşmaktadır.
@@ -29,7 +27,7 @@
 - Kilo: float64
 - Boy: float64
 
-- Kronik_Hastaliklarim, Baba_Kronik_Hastaliklari, Anne_Kronik_Hastaliklari, Kiz_Kardes_Kronik_Hastaliklari ve Erkek_Kardes_Kronik_Hastaliklari isimli kolonlarda birden fazla değer olduğu için verilerin tek satır haline gelmesiyle toplamda 370016 satır elde edilmiştir.
+- Kronik_Hastaliklarim, Baba_Kronik_Hastaliklari, Anne_Kronik_Hastaliklari, Kiz_Kardes_Kronik_Hastaliklari, Erkek_Kardes_Kronik_Hastaliklari ve Ilac_Adi isimli kolonlarda birden fazla değer olduğu için verilerin tek satır haline gelmesiyle toplamda 40820 satır elde edilmiştir.
 
 ## Yol Haritası:
 
@@ -41,6 +39,13 @@
    - Eksik veya anlamsız verileri düzenleme (KNNImputer)
 5. Veri Görselleştirme - Data Visualization
    - Veri setini anlamak amacıyla grafiklerin çizdirilmesi
+6. Verinin Normalize Edilmesi (Kilo, Boy, Yas, Tedavi_Suresi ve Yan_Etki_Bildirim_Suresi)
+7. One-Hot Encoder Islemi
+8. Veri Bölme (80-20)
+9. Sınıflandırma (SVM)
+10. Model Eğitimi
+11. Tahmin
+12. F1 Score ve Accuracy Score Hesaplama
 
 ## Kurulum:
 
